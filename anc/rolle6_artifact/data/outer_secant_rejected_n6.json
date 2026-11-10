@@ -1,0 +1,162 @@
+{
+  "010210342153240310210": [
+    "outer_secant_cubic_secant",
+    "outer_secant_mean_derivative",
+    "outer_secant_middle_cubic_derivative"
+  ],
+  "010210342153243010210": [
+    "outer_secant_mean_derivative",
+    "outer_secant_middle_cubic_derivative"
+  ],
+  "010210342513240310210": [
+    "outer_secant_cubic_secant",
+    "outer_secant_middle_cubic_derivative"
+  ],
+  "010210342513243010210": [
+    "outer_secant_middle_cubic_derivative"
+  ],
+  "010210342531240310210": [
+    "outer_secant_cubic_secant"
+  ],
+  "010213042153240310210": [
+    "outer_secant_mean_derivative",
+    "outer_secant_middle_cubic_derivative"
+  ],
+  "010213042513240310210": [
+    "outer_secant_middle_cubic_derivative"
+  ],
+  "010231042153204130210": [
+    "outer_secant_mean_derivative",
+    "outer_secant_middle_cubic_derivative",
+    "outer_secant_unit_secant"
+  ],
+  "010231042153240130210": [
+    "outer_secant_mean_derivative",
+    "outer_secant_middle_cubic_derivative"
+  ],
+  "010231042153240310210": [
+    "outer_secant_mean_derivative",
+    "outer_secant_middle_cubic_derivative"
+  ],
+  "010231042513204130210": [
+    "outer_secant_middle_cubic_derivative",
+    "outer_secant_unit_secant"
+  ],
+  "010231042513240130210": [
+    "outer_secant_middle_cubic_derivative"
+  ],
+  "010231042513240310210": [
+    "outer_secant_middle_cubic_derivative"
+  ],
+  "010231402153204130210": [
+    "outer_secant_mean_derivative",
+    "outer_secant_middle_cubic_derivative"
+  ],
+  "010231402513204130210": [
+    "outer_secant_middle_cubic_derivative"
+  ],
+  "010231402513240130210": [
+    "outer_secant_middle_cubic_derivative"
+  ],
+  "010231420105324130210": [
+    "outer_secant_mean_derivative",
+    "outer_secant_middle_cubic_derivative"
+  ],
+  "010231420150324130210": [
+    "outer_secant_mean_derivative",
+    "outer_secant_middle_cubic_derivative"
+  ],
+  "010231420153024130210": [
+    "outer_secant_mean_derivative",
+    "outer_secant_middle_cubic_derivative"
+  ],
+  "010231420510324130210": [
+    "outer_secant_middle_cubic_derivative"
+  ],
+  "010231420513024130210": [
+    "outer_secant_middle_cubic_derivative"
+  ],
+  "010231425013024130210": [
+    "outer_secant_middle_cubic_derivative"
+  ],
+  "012010342315243012010": [
+    "outer_secant_middle_cubic_derivative"
+  ],
+  "012010342351243012010": [
+    "outer_secant_mean_derivative",
+    "outer_secant_middle_cubic_derivative"
+  ],
+  "012013042135243012010": [
+    "outer_secant_cubic_secant"
+  ],
+  "012013042315240132010": [
+    "outer_secant_middle_cubic_derivative"
+  ],
+  "012013042315240312010": [
+    "outer_secant_middle_cubic_derivative"
+  ],
+  "012013042315243012010": [
+    "outer_secant_cubic_secant",
+    "outer_secant_middle_cubic_derivative"
+  ],
+  "012013042351240132010": [
+    "outer_secant_mean_derivative",
+    "outer_secant_middle_cubic_derivative"
+  ],
+  "012013042351240312010": [
+    "outer_secant_mean_derivative",
+    "outer_secant_middle_cubic_derivative"
+  ],
+  "012013042351243012010": [
+    "outer_secant_cubic_secant",
+    "outer_secant_mean_derivative",
+    "outer_secant_middle_cubic_derivative"
+  ],
+  "012031042315204132010": [
+    "outer_secant_middle_cubic_derivative"
+  ],
+  "012031042315240132010": [
+    "outer_secant_middle_cubic_derivative"
+  ],
+  "012031042351240132010": [
+    "outer_secant_mean_derivative",
+    "outer_secant_middle_cubic_derivative"
+  ],
+  "012031402315204132010": [
+    "outer_secant_middle_cubic_derivative"
+  ],
+  "012031402315240132010": [
+    "outer_secant_middle_cubic_derivative",
+    "outer_secant_unit_secant"
+  ],
+  "012031402351204132010": [
+    "outer_secant_mean_derivative",
+    "outer_secant_middle_cubic_derivative"
+  ],
+  "012031402351240132010": [
+    "outer_secant_mean_derivative",
+    "outer_secant_middle_cubic_derivative",
+    "outer_secant_unit_secant"
+  ],
+  "012031420310524132010": [
+    "outer_secant_middle_cubic_derivative"
+  ],
+  "012031420315024132010": [
+    "outer_secant_middle_cubic_derivative"
+  ],
+  "012031420351024132010": [
+    "outer_secant_mean_derivative",
+    "outer_secant_middle_cubic_derivative"
+  ],
+  "012031423015024132010": [
+    "outer_secant_middle_cubic_derivative"
+  ],
+  "012031423051024132010": [
+    "outer_secant_mean_derivative",
+    "outer_secant_middle_cubic_derivative"
+  ],
+  "012031423501024132010": [
+    "outer_secant_mean_derivative",
+    "outer_secant_middle_cubic_derivative"
+  ]
+}

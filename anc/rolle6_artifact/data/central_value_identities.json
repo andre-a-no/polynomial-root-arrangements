@@ -1,0 +1,66 @@
+[
+  {
+    "id": "central_1",
+    "weights": [
+      -3,
+      -3,
+      0,
+      0,
+      0,
+      0,
+      3,
+      -3,
+      0,
+      2
+    ],
+    "constant_times_60": 0
+  },
+  {
+    "id": "central_2",
+    "weights": [
+      3,
+      0,
+      0,
+      0,
+      6,
+      0,
+      -3,
+      0,
+      0,
+      1
+    ],
+    "constant_times_60": 0
+  },
+  {
+    "id": "central_3",
+    "weights": [
+      1,
+      0,
+      0,
+      -2,
+      0,
+      -1,
+      1,
+      0,
+      0,
+      0
+    ],
+    "constant_times_60": -14
+  },
+  {
+    "id": "central_4",
+    "weights": [
+      3,
+      0,
+      0,
+      0,
+      0,
+      -4,
+      -3,
+      6,
+      -2,
+      0
+    ],
+    "constant_times_60": -12
+  }
+]

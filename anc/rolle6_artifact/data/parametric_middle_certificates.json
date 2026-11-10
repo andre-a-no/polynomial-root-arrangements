@@ -1,0 +1,571 @@
+{
+  "identities": [
+    {
+      "id": "PM_identity_01",
+      "terms": [
+        {
+          "row": 0,
+          "sign": -1,
+          "weight": [
+            1
+          ]
+        },
+        {
+          "row": 7,
+          "sign": -1,
+          "weight": [
+            2
+          ]
+        },
+        {
+          "row": 9,
+          "sign": 1,
+          "weight": [
+            1
+          ]
+        },
+        {
+          "row": 11,
+          "sign": 1,
+          "weight": [
+            0,
+            2
+          ]
+        }
+      ],
+      "residual": [
+        0,
+        180,
+        -720,
+        280,
+        240,
+        -108
+      ]
+    },
+    {
+      "id": "PM_identity_02",
+      "terms": [
+        {
+          "row": 0,
+          "sign": -1,
+          "weight": [
+            1,
+            1
+          ]
+        },
+        {
+          "row": 1,
+          "sign": -1,
+          "weight": [
+            0,
+            2
+          ]
+        },
+        {
+          "row": 7,
+          "sign": -1,
+          "weight": [
+            2
+          ]
+        },
+        {
+          "row": 9,
+          "sign": 1,
+          "weight": [
+            1,
+            1
+          ]
+        }
+      ],
+      "residual": [
+        0,
+        -12,
+        240,
+        280,
+        -80,
+        -108
+      ]
+    },
+    {
+      "id": "PM_identity_03",
+      "terms": [
+        {
+          "row": 0,
+          "sign": -1,
+          "weight": [
+            2
+          ]
+        },
+        {
+          "row": 1,
+          "sign": -1,
+          "weight": [
+            1,
+            0,
+            -1
+          ]
+        },
+        {
+          "row": 4,
+          "sign": -1,
+          "weight": [
+            1,
+            2,
+            1
+          ]
+        },
+        {
+          "row": 6,
+          "sign": 1,
+          "weight": [
+            2
+          ]
+        }
+      ],
+      "residual": [
+        26,
+        60,
+        -54,
+        -200,
+        -90,
+        60,
+        38
+      ]
+    },
+    {
+      "id": "PM_identity_04",
+      "terms": [
+        {
+          "row": 1,
+          "sign": -1,
+          "weight": [
+            1
+          ]
+        },
+        {
+          "row": 7,
+          "sign": 1,
+          "weight": [
+            1
+          ]
+        },
+        {
+          "row": 11,
+          "sign": -1,
+          "weight": [
+            1,
+            1
+          ]
+        }
+      ],
+      "residual": [
+        -96,
+        390,
+        360,
+        -300,
+        -120,
+        54
+      ]
+    },
+    {
+      "id": "PM_identity_05",
+      "terms": [
+        {
+          "row": 0,
+          "sign": 1,
+          "weight": [
+            1,
+            -1
+          ]
+        },
+        {
+          "row": 7,
+          "sign": 1,
+          "weight": [
+            2
+          ]
+        },
+        {
+          "row": 9,
+          "sign": -1,
+          "weight": [
+            1,
+            -1
+          ]
+        },
+        {
+          "row": 10,
+          "sign": -1,
+          "weight": [
+            0,
+            2
+          ]
+        }
+      ],
+      "residual": [
+        0,
+        12,
+        240,
+        -280,
+        -80,
+        108
+      ]
+    },
+    {
+      "id": "PM_identity_06",
+      "terms": [
+        {
+          "row": 0,
+          "sign": 1,
+          "weight": [
+            1,
+            -2,
+            1
+          ]
+        },
+        {
+          "row": 6,
+          "sign": 1,
+          "weight": [
+            0,
+            4
+          ]
+        },
+        {
+          "row": 7,
+          "sign": 1,
+          "weight": [
+            2,
+            0,
+            -2
+          ]
+        },
+        {
+          "row": 9,
+          "sign": -1,
+          "weight": [
+            1,
+            2,
+            1
+          ]
+        }
+      ],
+      "residual": [
+        0,
+        64,
+        0,
+        -160,
+        0,
+        128,
+        0,
+        -32
+      ]
+    },
+    {
+      "id": "PM_identity_07",
+      "terms": [
+        {
+          "row": 0,
+          "sign": 1,
+          "weight": [
+            1,
+            -1
+          ]
+        },
+        {
+          "row": 5,
+          "sign": -1,
+          "weight": [
+            1,
+            0,
+            -1
+          ]
+        },
+        {
+          "row": 6,
+          "sign": -1,
+          "weight": [
+            2
+          ]
+        },
+        {
+          "row": 9,
+          "sign": 1,
+          "weight": [
+            1,
+            1
+          ]
+        }
+      ],
+      "residual": [
+        28,
+        0,
+        -120,
+        0,
+        130,
+        0,
+        -38
+      ]
+    },
+    {
+      "id": "PM_identity_08",
+      "terms": [
+        {
+          "row": 0,
+          "sign": 1,
+          "weight": [
+            1,
+            -1
+          ]
+        },
+        {
+          "row": 6,
+          "sign": -1,
+          "weight": [
+            2
+          ]
+        },
+        {
+          "row": 9,
+          "sign": 1,
+          "weight": [
+            1,
+            1
+          ]
+        },
+        {
+          "row": 11,
+          "sign": -1,
+          "weight": [
+            1,
+            0,
+            -1
+          ]
+        }
+      ],
+      "residual": [
+        -122,
+        360,
+        30,
+        -480,
+        130,
+        120,
+        -38
+      ]
+    }
+  ],
+  "patterns": [
+    {
+      "id": "PM_pattern_01",
+      "signature": [
+        -1,
+        -1,
+        0,
+        0,
+        0,
+        0,
+        0,
+        -1,
+        0,
+        1,
+        0,
+        1
+      ],
+      "pieces": [
+        {
+          "identity": "PM_identity_01",
+          "interval": [
+            [
+              0,
+              1
+            ],
+            [
+              1,
+              4
+            ]
+          ]
+        },
+        {
+          "identity": "PM_identity_02",
+          "interval": [
+            [
+              1,
+              4
+            ],
+            [
+              1,
+              2
+            ]
+          ]
+        },
+        {
+          "identity": "PM_identity_02",
+          "interval": [
+            [
+              1,
+              2
+            ],
+            [
+              1,
+              1
+            ]
+          ]
+        }
+      ]
+    },
+    {
+      "id": "PM_pattern_02",
+      "signature": [
+        -1,
+        -1,
+        0,
+        0,
+        -1,
+        0,
+        1,
+        1,
+        0,
+        0,
+        0,
+        -1
+      ],
+      "pieces": [
+        {
+          "identity": "PM_identity_03",
+          "interval": [
+            [
+              0,
+              1
+            ],
+            [
+              1,
+              2
+            ]
+          ]
+        },
+        {
+          "identity": "PM_identity_04",
+          "interval": [
+            [
+              1,
+              2
+            ],
+            [
+              1,
+              1
+            ]
+          ]
+        }
+      ]
+    },
+    {
+      "id": "PM_pattern_03",
+      "signature": [
+        1,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        1,
+        0,
+        -1,
+        -1,
+        0
+      ],
+      "pieces": [
+        {
+          "identity": "PM_identity_05",
+          "interval": [
+            [
+              0,
+              1
+            ],
+            [
+              1,
+              1
+            ]
+          ]
+        }
+      ]
+    },
+    {
+      "id": "PM_pattern_04",
+      "signature": [
+        1,
+        0,
+        0,
+        0,
+        0,
+        0,
+        1,
+        1,
+        0,
+        -1,
+        0,
+        0
+      ],
+      "pieces": [
+        {
+          "identity": "PM_identity_06",
+          "interval": [
+            [
+              0,
+              1
+            ],
+            [
+              1,
+              1
+            ]
+          ]
+        }
+      ]
+    },
+    {
+      "id": "PM_pattern_05",
+      "signature": [
+        1,
+        0,
+        0,
+        0,
+        0,
+        -1,
+        -1,
+        0,
+        0,
+        1,
+        0,
+        -1
+      ],
+      "pieces": [
+        {
+          "identity": "PM_identity_07",
+          "interval": [
+            [
+              0,
+              1
+            ],
+            [
+              1,
+              2
+            ]
+          ]
+        },
+        {
+          "identity": "PM_identity_08",
+          "interval": [
+            [
+              1,
+              2
+            ],
+            [
+              1,
+              1
+            ]
+          ]
+        }
+      ]
+    }
+  ]
+}

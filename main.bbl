@@ -1,0 +1,25 @@
+\begin{thebibliography}{1}
+
+\bibitem{Kostov2002}
+Vladimir~Petrov Kostov.
+\newblock Discriminant sets of families of hyperbolic polynomials of degree 4
+  and 5.
+\newblock {\em Serdica Mathematical Journal}, 28(2):117--152, 2002.
+\newblock \url{https://www.math.bas.bg/serdica/2002/2002-117-152.pdf}.
+
+\bibitem{KostovShapiro2002}
+Vladimir~Petrov Kostov and Boris~Zalmanovich Shapiro.
+\newblock On arrangements of roots for a real hyperbolic polynomial and its
+  derivatives.
+\newblock {\em Bulletin des Sciences Math\'ematiques}, 126(1):45--60, 2002.
+\newblock
+  \href{https://doi.org/10.1016/S0007-4497(01)01106-X}{doi:10.1016/S0007-4497(01)01106-X}.
+
+\bibitem{MeirSharma1968}
+A.~Meir and A.~Sharma.
+\newblock On zeros of derivatives of polynomials.
+\newblock {\em Canadian Mathematical Bulletin}, 11(3):443--445, 1968.
+\newblock
+  \href{https://doi.org/10.4153/CMB-1968-051-x}{doi:10.4153/CMB-1968-051-x}.
+
+\end{thebibliography}

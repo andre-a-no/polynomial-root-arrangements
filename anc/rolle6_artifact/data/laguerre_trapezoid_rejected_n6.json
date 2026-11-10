@@ -1,0 +1,20 @@
+{
+  "010210342531240103210": [
+    "laguerre_trapezoid_outer_cubic"
+  ],
+  "012010342531240103210": [
+    "laguerre_trapezoid_outer_cubic"
+  ],
+  "012301042135243010210": [
+    "laguerre_trapezoid_outer_cubic"
+  ],
+  "012301042135243012010": [
+    "laguerre_trapezoid_outer_cubic"
+  ],
+  "012301042531201043210": [
+    "laguerre_trapezoid_fourth_derivative"
+  ],
+  "012340102135240103210": [
+    "laguerre_trapezoid_fourth_derivative"
+  ]
+}

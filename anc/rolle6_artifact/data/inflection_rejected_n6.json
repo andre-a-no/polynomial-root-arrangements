@@ -1,0 +1,5108 @@
+{
+  "010210324130251403210": [
+    "inflection_pattern_65"
+  ],
+  "010210324132051403210": [
+    "inflection_pattern_65",
+    "inflection_pattern_166"
+  ],
+  "010210324132501403210": [
+    "inflection_pattern_66",
+    "inflection_pattern_107",
+    "inflection_pattern_166",
+    "inflection_pattern_273"
+  ],
+  "010210324135204310210": [
+    "inflection_pattern_230"
+  ],
+  "010210342130215043210": [
+    "inflection_pattern_61",
+    "inflection_pattern_168"
+  ],
+  "010210342130251043210": [
+    "inflection_pattern_63",
+    "inflection_pattern_167"
+  ],
+  "010210342130521043210": [
+    "inflection_pattern_64",
+    "inflection_pattern_122",
+    "inflection_pattern_215",
+    "inflection_pattern_232"
+  ],
+  "010210342130521403210": [
+    "inflection_pattern_62",
+    "inflection_pattern_119",
+    "inflection_pattern_122",
+    "inflection_pattern_214",
+    "inflection_pattern_231"
+  ],
+  "010210342132015043210": [
+    "inflection_pattern_61"
+  ],
+  "010210342132051043210": [
+    "inflection_pattern_63"
+  ],
+  "010210342132501043210": [
+    "inflection_pattern_67"
+  ],
+  "010210342135021403210": [
+    "inflection_pattern_68"
+  ],
+  "010210342135024103210": [
+    "inflection_pattern_70"
+  ],
+  "010210342135024130210": [
+    "inflection_pattern_69"
+  ],
+  "010210342135024132010": [
+    "inflection_pattern_69"
+  ],
+  "010210342135024312010": [
+    "inflection_pattern_71"
+  ],
+  "010210342135201403210": [
+    "inflection_pattern_68"
+  ],
+  "010210342135204103210": [
+    "inflection_pattern_70"
+  ],
+  "010210342135204130210": [
+    "inflection_pattern_69"
+  ],
+  "010210342135204132010": [
+    "inflection_pattern_69"
+  ],
+  "010210342135204310210": [
+    "inflection_pattern_71",
+    "inflection_pattern_230",
+    "inflection_pattern_280"
+  ],
+  "010210342135204312010": [
+    "inflection_pattern_71"
+  ],
+  "010210342153024312010": [
+    "inflection_pattern_314"
+  ],
+  "010210342153204310210": [
+    "inflection_pattern_32",
+    "inflection_pattern_35",
+    "inflection_pattern_37",
+    "inflection_pattern_38",
+    "inflection_pattern_54",
+    "inflection_pattern_55",
+    "inflection_pattern_314"
+  ],
+  "010210342153204312010": [
+    "inflection_pattern_314"
+  ],
+  "010210342315204103210": [
+    "inflection_pattern_70",
+    "inflection_pattern_74",
+    "inflection_pattern_120",
+    "inflection_pattern_177",
+    "inflection_pattern_235"
+  ],
+  "010210342315204130210": [
+    "inflection_pattern_69",
+    "inflection_pattern_72",
+    "inflection_pattern_120",
+    "inflection_pattern_126",
+    "inflection_pattern_189",
+    "inflection_pattern_233"
+  ],
+  "010210342315204132010": [
+    "inflection_pattern_69",
+    "inflection_pattern_72",
+    "inflection_pattern_120",
+    "inflection_pattern_126",
+    "inflection_pattern_189",
+    "inflection_pattern_291"
+  ],
+  "010210342315204310210": [
+    "inflection_pattern_71",
+    "inflection_pattern_72",
+    "inflection_pattern_75",
+    "inflection_pattern_76",
+    "inflection_pattern_120",
+    "inflection_pattern_121",
+    "inflection_pattern_126",
+    "inflection_pattern_189",
+    "inflection_pattern_190",
+    "inflection_pattern_191",
+    "inflection_pattern_236",
+    "inflection_pattern_281"
+  ],
+  "010210342315204312010": [
+    "inflection_pattern_71",
+    "inflection_pattern_72",
+    "inflection_pattern_75",
+    "inflection_pattern_76",
+    "inflection_pattern_120",
+    "inflection_pattern_121",
+    "inflection_pattern_126",
+    "inflection_pattern_189",
+    "inflection_pattern_190",
+    "inflection_pattern_191",
+    "inflection_pattern_292"
+  ],
+  "010210342315240130210": [
+    "inflection_pattern_73",
+    "inflection_pattern_126",
+    "inflection_pattern_188",
+    "inflection_pattern_234"
+  ],
+  "010210342315240132010": [
+    "inflection_pattern_73",
+    "inflection_pattern_126",
+    "inflection_pattern_188",
+    "inflection_pattern_293"
+  ],
+  "010210342315240310210": [
+    "inflection_pattern_76",
+    "inflection_pattern_126",
+    "inflection_pattern_191",
+    "inflection_pattern_236"
+  ],
+  "010210342315240312010": [
+    "inflection_pattern_76",
+    "inflection_pattern_126",
+    "inflection_pattern_191",
+    "inflection_pattern_294"
+  ],
+  "010210342351240130210": [
+    "inflection_pattern_73",
+    "inflection_pattern_77",
+    "inflection_pattern_126",
+    "inflection_pattern_127",
+    "inflection_pattern_188",
+    "inflection_pattern_192",
+    "inflection_pattern_234",
+    "inflection_pattern_237"
+  ],
+  "010210342351240132010": [
+    "inflection_pattern_73",
+    "inflection_pattern_77",
+    "inflection_pattern_126",
+    "inflection_pattern_127",
+    "inflection_pattern_188",
+    "inflection_pattern_192",
+    "inflection_pattern_293",
+    "inflection_pattern_295"
+  ],
+  "010210342351240310210": [
+    "inflection_pattern_76",
+    "inflection_pattern_77",
+    "inflection_pattern_126",
+    "inflection_pattern_127",
+    "inflection_pattern_191",
+    "inflection_pattern_192",
+    "inflection_pattern_236",
+    "inflection_pattern_237",
+    "inflection_pattern_238"
+  ],
+  "010210342351240312010": [
+    "inflection_pattern_76",
+    "inflection_pattern_77",
+    "inflection_pattern_126",
+    "inflection_pattern_127",
+    "inflection_pattern_191",
+    "inflection_pattern_192",
+    "inflection_pattern_294",
+    "inflection_pattern_296"
+  ],
+  "010210342513024312010": [
+    "inflection_pattern_87",
+    "inflection_pattern_156",
+    "inflection_pattern_212",
+    "inflection_pattern_315"
+  ],
+  "010210342513204310210": [
+    "inflection_pattern_32",
+    "inflection_pattern_35",
+    "inflection_pattern_38",
+    "inflection_pattern_55",
+    "inflection_pattern_135",
+    "inflection_pattern_212",
+    "inflection_pattern_315"
+  ],
+  "010210342513204312010": [
+    "inflection_pattern_87",
+    "inflection_pattern_135",
+    "inflection_pattern_212",
+    "inflection_pattern_315"
+  ],
+  "010210342531024132010": [
+    "inflection_pattern_97",
+    "inflection_pattern_99",
+    "inflection_pattern_102",
+    "inflection_pattern_149",
+    "inflection_pattern_150",
+    "inflection_pattern_152",
+    "inflection_pattern_194",
+    "inflection_pattern_200",
+    "inflection_pattern_212",
+    "inflection_pattern_213",
+    "inflection_pattern_310",
+    "inflection_pattern_317"
+  ],
+  "010210342531204103210": [
+    "inflection_pattern_17",
+    "inflection_pattern_123",
+    "inflection_pattern_124",
+    "inflection_pattern_137",
+    "inflection_pattern_184",
+    "inflection_pattern_200",
+    "inflection_pattern_212",
+    "inflection_pattern_213",
+    "inflection_pattern_304",
+    "inflection_pattern_317"
+  ],
+  "010210342531204130210": [
+    "inflection_pattern_46",
+    "inflection_pattern_47",
+    "inflection_pattern_128",
+    "inflection_pattern_129",
+    "inflection_pattern_137",
+    "inflection_pattern_194",
+    "inflection_pattern_200",
+    "inflection_pattern_212",
+    "inflection_pattern_213",
+    "inflection_pattern_310",
+    "inflection_pattern_317"
+  ],
+  "010210342531204132010": [
+    "inflection_pattern_97",
+    "inflection_pattern_99",
+    "inflection_pattern_102",
+    "inflection_pattern_128",
+    "inflection_pattern_129",
+    "inflection_pattern_137",
+    "inflection_pattern_194",
+    "inflection_pattern_200",
+    "inflection_pattern_212",
+    "inflection_pattern_213",
+    "inflection_pattern_310",
+    "inflection_pattern_317"
+  ],
+  "010210342531204310210": [
+    "inflection_pattern_35",
+    "inflection_pattern_38",
+    "inflection_pattern_55",
+    "inflection_pattern_129",
+    "inflection_pattern_132",
+    "inflection_pattern_134",
+    "inflection_pattern_135",
+    "inflection_pattern_137",
+    "inflection_pattern_198",
+    "inflection_pattern_212",
+    "inflection_pattern_213",
+    "inflection_pattern_311",
+    "inflection_pattern_313",
+    "inflection_pattern_315"
+  ],
+  "010210342531240130210": [
+    "inflection_pattern_309"
+  ],
+  "010210342531240132010": [
+    "inflection_pattern_84",
+    "inflection_pattern_309"
+  ],
+  "010210342531420310210": [
+    "inflection_pattern_39"
+  ],
+  "010213024130251403210": [
+    "inflection_pattern_78",
+    "inflection_pattern_104",
+    "inflection_pattern_172",
+    "inflection_pattern_262"
+  ],
+  "010213024132051403210": [
+    "inflection_pattern_78",
+    "inflection_pattern_104",
+    "inflection_pattern_163",
+    "inflection_pattern_166",
+    "inflection_pattern_262"
+  ],
+  "010213024132501403210": [
+    "inflection_pattern_79",
+    "inflection_pattern_104",
+    "inflection_pattern_105",
+    "inflection_pattern_107",
+    "inflection_pattern_163",
+    "inflection_pattern_166",
+    "inflection_pattern_263",
+    "inflection_pattern_273"
+  ],
+  "010213024135204310210": [
+    "inflection_pattern_264"
+  ],
+  "010213042103210543210": [
+    "inflection_pattern_136"
+  ],
+  "010213042135204310210": [
+    "inflection_pattern_264",
+    "inflection_pattern_265",
+    "inflection_pattern_280"
+  ],
+  "010213042153204310210": [
+    "inflection_pattern_30",
+    "inflection_pattern_32",
+    "inflection_pattern_34",
+    "inflection_pattern_35",
+    "inflection_pattern_36",
+    "inflection_pattern_37",
+    "inflection_pattern_38",
+    "inflection_pattern_52",
+    "inflection_pattern_54",
+    "inflection_pattern_55"
+  ],
+  "010213042153243010210": [
+    "inflection_pattern_6",
+    "inflection_pattern_24",
+    "inflection_pattern_126",
+    "inflection_pattern_127",
+    "inflection_pattern_191",
+    "inflection_pattern_192",
+    "inflection_pattern_294",
+    "inflection_pattern_296"
+  ],
+  "010213042153243012010": [
+    "inflection_pattern_76",
+    "inflection_pattern_77",
+    "inflection_pattern_126",
+    "inflection_pattern_127",
+    "inflection_pattern_191",
+    "inflection_pattern_192",
+    "inflection_pattern_294",
+    "inflection_pattern_296"
+  ],
+  "010213042315204310210": [
+    "inflection_pattern_281"
+  ],
+  "010213042513204310210": [
+    "inflection_pattern_30",
+    "inflection_pattern_32",
+    "inflection_pattern_34",
+    "inflection_pattern_35",
+    "inflection_pattern_38",
+    "inflection_pattern_52",
+    "inflection_pattern_55"
+  ],
+  "010213042513243010210": [
+    "inflection_pattern_6",
+    "inflection_pattern_126",
+    "inflection_pattern_191",
+    "inflection_pattern_294"
+  ],
+  "010213042513243012010": [
+    "inflection_pattern_76",
+    "inflection_pattern_126",
+    "inflection_pattern_191",
+    "inflection_pattern_294"
+  ],
+  "010213042531024132010": [
+    "inflection_pattern_97",
+    "inflection_pattern_98",
+    "inflection_pattern_102",
+    "inflection_pattern_148",
+    "inflection_pattern_149",
+    "inflection_pattern_194",
+    "inflection_pattern_211",
+    "inflection_pattern_213",
+    "inflection_pattern_310"
+  ],
+  "010213042531024312010": [
+    "inflection_pattern_85",
+    "inflection_pattern_86",
+    "inflection_pattern_102",
+    "inflection_pattern_146",
+    "inflection_pattern_198",
+    "inflection_pattern_211",
+    "inflection_pattern_213",
+    "inflection_pattern_313"
+  ],
+  "010213042531204103210": [
+    "inflection_pattern_17",
+    "inflection_pattern_23",
+    "inflection_pattern_123",
+    "inflection_pattern_125",
+    "inflection_pattern_137",
+    "inflection_pattern_184",
+    "inflection_pattern_187",
+    "inflection_pattern_211",
+    "inflection_pattern_213",
+    "inflection_pattern_304"
+  ],
+  "010213042531204130210": [
+    "inflection_pattern_45",
+    "inflection_pattern_46",
+    "inflection_pattern_47",
+    "inflection_pattern_129",
+    "inflection_pattern_130",
+    "inflection_pattern_137",
+    "inflection_pattern_194",
+    "inflection_pattern_211",
+    "inflection_pattern_213",
+    "inflection_pattern_310"
+  ],
+  "010213042531204132010": [
+    "inflection_pattern_97",
+    "inflection_pattern_98",
+    "inflection_pattern_102",
+    "inflection_pattern_129",
+    "inflection_pattern_130",
+    "inflection_pattern_137",
+    "inflection_pattern_194",
+    "inflection_pattern_211",
+    "inflection_pattern_213",
+    "inflection_pattern_310"
+  ],
+  "010213042531204310210": [
+    "inflection_pattern_34",
+    "inflection_pattern_35",
+    "inflection_pattern_38",
+    "inflection_pattern_55",
+    "inflection_pattern_129",
+    "inflection_pattern_130",
+    "inflection_pattern_132",
+    "inflection_pattern_133",
+    "inflection_pattern_137",
+    "inflection_pattern_198",
+    "inflection_pattern_211",
+    "inflection_pattern_213",
+    "inflection_pattern_313"
+  ],
+  "010213042531204312010": [
+    "inflection_pattern_85",
+    "inflection_pattern_86",
+    "inflection_pattern_102",
+    "inflection_pattern_129",
+    "inflection_pattern_130",
+    "inflection_pattern_132",
+    "inflection_pattern_133",
+    "inflection_pattern_137",
+    "inflection_pattern_198",
+    "inflection_pattern_211",
+    "inflection_pattern_213",
+    "inflection_pattern_313"
+  ],
+  "010213204130251403210": [
+    "inflection_pattern_78",
+    "inflection_pattern_117",
+    "inflection_pattern_172",
+    "inflection_pattern_262"
+  ],
+  "010213204132051403210": [
+    "inflection_pattern_78",
+    "inflection_pattern_117",
+    "inflection_pattern_163",
+    "inflection_pattern_166",
+    "inflection_pattern_262"
+  ],
+  "010213204132501403210": [
+    "inflection_pattern_79",
+    "inflection_pattern_117",
+    "inflection_pattern_118",
+    "inflection_pattern_163",
+    "inflection_pattern_166",
+    "inflection_pattern_263",
+    "inflection_pattern_273"
+  ],
+  "010213402103210543210": [
+    "inflection_pattern_136"
+  ],
+  "010213402135204310210": [
+    "inflection_pattern_264",
+    "inflection_pattern_265",
+    "inflection_pattern_275",
+    "inflection_pattern_280"
+  ],
+  "010213402135240103210": [
+    "inflection_pattern_86",
+    "inflection_pattern_129",
+    "inflection_pattern_132",
+    "inflection_pattern_198",
+    "inflection_pattern_274"
+  ],
+  "010213402135240130210": [
+    "inflection_pattern_85",
+    "inflection_pattern_86",
+    "inflection_pattern_129",
+    "inflection_pattern_130",
+    "inflection_pattern_132",
+    "inflection_pattern_133",
+    "inflection_pattern_198",
+    "inflection_pattern_211",
+    "inflection_pattern_274",
+    "inflection_pattern_277"
+  ],
+  "010213402135240132010": [
+    "inflection_pattern_85",
+    "inflection_pattern_86",
+    "inflection_pattern_129",
+    "inflection_pattern_130",
+    "inflection_pattern_132",
+    "inflection_pattern_133",
+    "inflection_pattern_198",
+    "inflection_pattern_211",
+    "inflection_pattern_312"
+  ],
+  "010213402135240310210": [
+    "inflection_pattern_85",
+    "inflection_pattern_86",
+    "inflection_pattern_102",
+    "inflection_pattern_129",
+    "inflection_pattern_130",
+    "inflection_pattern_132",
+    "inflection_pattern_133",
+    "inflection_pattern_137",
+    "inflection_pattern_198",
+    "inflection_pattern_211",
+    "inflection_pattern_213",
+    "inflection_pattern_278",
+    "inflection_pattern_279"
+  ],
+  "010213402135240312010": [
+    "inflection_pattern_85",
+    "inflection_pattern_86",
+    "inflection_pattern_102",
+    "inflection_pattern_129",
+    "inflection_pattern_130",
+    "inflection_pattern_132",
+    "inflection_pattern_133",
+    "inflection_pattern_137",
+    "inflection_pattern_198",
+    "inflection_pattern_211",
+    "inflection_pattern_213",
+    "inflection_pattern_313"
+  ],
+  "010213402135243010210": [
+    "inflection_pattern_86",
+    "inflection_pattern_87",
+    "inflection_pattern_102",
+    "inflection_pattern_129",
+    "inflection_pattern_132",
+    "inflection_pattern_134",
+    "inflection_pattern_135",
+    "inflection_pattern_137",
+    "inflection_pattern_198",
+    "inflection_pattern_212",
+    "inflection_pattern_213",
+    "inflection_pattern_276",
+    "inflection_pattern_279"
+  ],
+  "010213402153204310210": [
+    "inflection_pattern_32",
+    "inflection_pattern_34",
+    "inflection_pattern_35",
+    "inflection_pattern_37",
+    "inflection_pattern_40",
+    "inflection_pattern_52",
+    "inflection_pattern_54"
+  ],
+  "010213402315204310210": [
+    "inflection_pattern_281"
+  ],
+  "010213402315240310210": [
+    "inflection_pattern_279"
+  ],
+  "010213402315243010210": [
+    "inflection_pattern_87",
+    "inflection_pattern_135",
+    "inflection_pattern_212",
+    "inflection_pattern_279"
+  ],
+  "010213402315243012010": [
+    "inflection_pattern_87",
+    "inflection_pattern_135",
+    "inflection_pattern_212",
+    "inflection_pattern_315"
+  ],
+  "010213402351204310210": [
+    "inflection_pattern_281",
+    "inflection_pattern_282"
+  ],
+  "010213402351243012010": [
+    "inflection_pattern_314"
+  ],
+  "010213402513204310210": [
+    "inflection_pattern_32",
+    "inflection_pattern_34",
+    "inflection_pattern_35",
+    "inflection_pattern_40",
+    "inflection_pattern_52"
+  ],
+  "010213402513240310210": [
+    "inflection_pattern_40"
+  ],
+  "010213402513243010210": [
+    "inflection_pattern_4",
+    "inflection_pattern_5",
+    "inflection_pattern_6",
+    "inflection_pattern_120",
+    "inflection_pattern_121",
+    "inflection_pattern_126",
+    "inflection_pattern_189",
+    "inflection_pattern_190",
+    "inflection_pattern_191",
+    "inflection_pattern_292"
+  ],
+  "010213402513243012010": [
+    "inflection_pattern_71",
+    "inflection_pattern_72",
+    "inflection_pattern_75",
+    "inflection_pattern_76",
+    "inflection_pattern_120",
+    "inflection_pattern_121",
+    "inflection_pattern_126",
+    "inflection_pattern_189",
+    "inflection_pattern_190",
+    "inflection_pattern_191",
+    "inflection_pattern_292"
+  ],
+  "010213402531204103210": [
+    "inflection_pattern_184"
+  ],
+  "010213402531204310210": [
+    "inflection_pattern_34",
+    "inflection_pattern_35"
+  ],
+  "010213402531243012010": [
+    "inflection_pattern_71"
+  ],
+  "010213420135204310210": [
+    "inflection_pattern_264",
+    "inflection_pattern_265",
+    "inflection_pattern_275",
+    "inflection_pattern_280"
+  ],
+  "010213420135240103210": [
+    "inflection_pattern_86",
+    "inflection_pattern_152",
+    "inflection_pattern_153",
+    "inflection_pattern_198",
+    "inflection_pattern_274"
+  ],
+  "010213420135240130210": [
+    "inflection_pattern_85",
+    "inflection_pattern_86",
+    "inflection_pattern_154",
+    "inflection_pattern_198",
+    "inflection_pattern_211",
+    "inflection_pattern_274",
+    "inflection_pattern_277"
+  ],
+  "010213420135240132010": [
+    "inflection_pattern_85",
+    "inflection_pattern_86",
+    "inflection_pattern_154",
+    "inflection_pattern_198",
+    "inflection_pattern_211",
+    "inflection_pattern_312"
+  ],
+  "010213420135240310210": [
+    "inflection_pattern_85",
+    "inflection_pattern_86",
+    "inflection_pattern_102",
+    "inflection_pattern_146",
+    "inflection_pattern_198",
+    "inflection_pattern_211",
+    "inflection_pattern_213",
+    "inflection_pattern_278",
+    "inflection_pattern_279"
+  ],
+  "010213420135240312010": [
+    "inflection_pattern_85",
+    "inflection_pattern_86",
+    "inflection_pattern_102",
+    "inflection_pattern_146",
+    "inflection_pattern_198",
+    "inflection_pattern_211",
+    "inflection_pattern_213",
+    "inflection_pattern_313"
+  ],
+  "010213420135243010210": [
+    "inflection_pattern_86",
+    "inflection_pattern_87",
+    "inflection_pattern_102",
+    "inflection_pattern_146",
+    "inflection_pattern_152",
+    "inflection_pattern_153",
+    "inflection_pattern_155",
+    "inflection_pattern_156",
+    "inflection_pattern_198",
+    "inflection_pattern_212",
+    "inflection_pattern_213",
+    "inflection_pattern_276",
+    "inflection_pattern_279"
+  ],
+  "010213420315204310210": [
+    "inflection_pattern_281"
+  ],
+  "010213420315240310210": [
+    "inflection_pattern_279"
+  ],
+  "010213420315243010210": [
+    "inflection_pattern_87",
+    "inflection_pattern_156",
+    "inflection_pattern_212",
+    "inflection_pattern_279"
+  ],
+  "010213420315243012010": [
+    "inflection_pattern_87",
+    "inflection_pattern_156",
+    "inflection_pattern_212",
+    "inflection_pattern_315"
+  ],
+  "010213420351204310210": [
+    "inflection_pattern_281",
+    "inflection_pattern_282"
+  ],
+  "010213420351243012010": [
+    "inflection_pattern_314"
+  ],
+  "010213420531204310210": [
+    "inflection_pattern_34",
+    "inflection_pattern_35"
+  ],
+  "010213420531243012010": [
+    "inflection_pattern_71"
+  ],
+  "010231021043521043210": [
+    "inflection_pattern_103"
+  ],
+  "010231021403521043210": [
+    "inflection_pattern_80"
+  ],
+  "010231024130251403210": [
+    "inflection_pattern_83",
+    "inflection_pattern_104",
+    "inflection_pattern_106",
+    "inflection_pattern_173",
+    "inflection_pattern_175",
+    "inflection_pattern_266"
+  ],
+  "010231024132051403210": [
+    "inflection_pattern_83",
+    "inflection_pattern_104",
+    "inflection_pattern_106",
+    "inflection_pattern_163",
+    "inflection_pattern_166",
+    "inflection_pattern_266"
+  ],
+  "010231024132501043210": [
+    "inflection_pattern_81"
+  ],
+  "010231024132501403210": [
+    "inflection_pattern_81",
+    "inflection_pattern_82",
+    "inflection_pattern_104",
+    "inflection_pattern_105",
+    "inflection_pattern_106",
+    "inflection_pattern_107",
+    "inflection_pattern_163",
+    "inflection_pattern_166",
+    "inflection_pattern_266",
+    "inflection_pattern_267",
+    "inflection_pattern_284"
+  ],
+  "010231024135201403210": [
+    "inflection_pattern_195"
+  ],
+  "010231024135204103210": [
+    "inflection_pattern_193"
+  ],
+  "010231024135204130210": [
+    "inflection_pattern_196"
+  ],
+  "010231024135204132010": [
+    "inflection_pattern_196"
+  ],
+  "010231042103215043210": [
+    "inflection_pattern_90"
+  ],
+  "010231042103251043210": [
+    "inflection_pattern_91"
+  ],
+  "010231042103521043210": [
+    "inflection_pattern_92"
+  ],
+  "010231042103521403210": [
+    "inflection_pattern_93"
+  ],
+  "010231042103524103210": [
+    "inflection_pattern_88"
+  ],
+  "010231042103524130210": [
+    "inflection_pattern_89"
+  ],
+  "010231042103524132010": [
+    "inflection_pattern_89"
+  ],
+  "010231042105324132010": [
+    "inflection_pattern_101",
+    "inflection_pattern_157",
+    "inflection_pattern_158",
+    "inflection_pattern_208",
+    "inflection_pattern_210",
+    "inflection_pattern_319"
+  ],
+  "010231042135204310210": [
+    "inflection_pattern_270",
+    "inflection_pattern_288"
+  ],
+  "010231042135243010210": [
+    "inflection_pattern_84"
+  ],
+  "010231042135243012010": [
+    "inflection_pattern_84",
+    "inflection_pattern_309"
+  ],
+  "010231042153204103210": [
+    "inflection_pattern_20",
+    "inflection_pattern_21",
+    "inflection_pattern_23",
+    "inflection_pattern_24",
+    "inflection_pattern_125",
+    "inflection_pattern_126",
+    "inflection_pattern_127",
+    "inflection_pattern_183",
+    "inflection_pattern_186",
+    "inflection_pattern_188",
+    "inflection_pattern_192",
+    "inflection_pattern_300",
+    "inflection_pattern_302",
+    "inflection_pattern_303",
+    "inflection_pattern_306",
+    "inflection_pattern_308"
+  ],
+  "010231042153204310210": [
+    "inflection_pattern_30",
+    "inflection_pattern_34",
+    "inflection_pattern_36",
+    "inflection_pattern_52",
+    "inflection_pattern_54",
+    "inflection_pattern_55"
+  ],
+  "010231042153240103210": [
+    "inflection_pattern_20",
+    "inflection_pattern_21",
+    "inflection_pattern_24",
+    "inflection_pattern_126",
+    "inflection_pattern_127",
+    "inflection_pattern_186",
+    "inflection_pattern_188",
+    "inflection_pattern_192",
+    "inflection_pattern_306",
+    "inflection_pattern_308"
+  ],
+  "010231042153243010210": [
+    "inflection_pattern_2",
+    "inflection_pattern_24",
+    "inflection_pattern_126",
+    "inflection_pattern_127",
+    "inflection_pattern_188",
+    "inflection_pattern_192",
+    "inflection_pattern_293",
+    "inflection_pattern_295"
+  ],
+  "010231042153243012010": [
+    "inflection_pattern_73",
+    "inflection_pattern_77",
+    "inflection_pattern_126",
+    "inflection_pattern_127",
+    "inflection_pattern_188",
+    "inflection_pattern_192",
+    "inflection_pattern_293",
+    "inflection_pattern_295"
+  ],
+  "010231042513024132010": [
+    "inflection_pattern_147"
+  ],
+  "010231042513204103210": [
+    "inflection_pattern_20",
+    "inflection_pattern_21",
+    "inflection_pattern_23",
+    "inflection_pattern_125",
+    "inflection_pattern_126",
+    "inflection_pattern_183",
+    "inflection_pattern_188",
+    "inflection_pattern_300",
+    "inflection_pattern_303",
+    "inflection_pattern_306"
+  ],
+  "010231042513204310210": [
+    "inflection_pattern_30",
+    "inflection_pattern_34",
+    "inflection_pattern_52",
+    "inflection_pattern_55"
+  ],
+  "010231042513240103210": [
+    "inflection_pattern_20",
+    "inflection_pattern_21",
+    "inflection_pattern_126",
+    "inflection_pattern_188",
+    "inflection_pattern_306"
+  ],
+  "010231042513243010210": [
+    "inflection_pattern_2",
+    "inflection_pattern_126",
+    "inflection_pattern_188",
+    "inflection_pattern_293"
+  ],
+  "010231042513243012010": [
+    "inflection_pattern_73",
+    "inflection_pattern_126",
+    "inflection_pattern_188",
+    "inflection_pattern_293"
+  ],
+  "010231042531024132010": [
+    "inflection_pattern_97",
+    "inflection_pattern_98",
+    "inflection_pattern_148",
+    "inflection_pattern_194",
+    "inflection_pattern_211",
+    "inflection_pattern_316"
+  ],
+  "010231042531024312010": [
+    "inflection_pattern_85",
+    "inflection_pattern_86",
+    "inflection_pattern_154",
+    "inflection_pattern_198",
+    "inflection_pattern_211",
+    "inflection_pattern_312"
+  ],
+  "010231042531204103210": [
+    "inflection_pattern_23",
+    "inflection_pattern_125",
+    "inflection_pattern_187",
+    "inflection_pattern_211",
+    "inflection_pattern_303",
+    "inflection_pattern_316"
+  ],
+  "010231042531204130210": [
+    "inflection_pattern_45",
+    "inflection_pattern_46",
+    "inflection_pattern_129",
+    "inflection_pattern_130",
+    "inflection_pattern_194",
+    "inflection_pattern_211",
+    "inflection_pattern_316"
+  ],
+  "010231042531204132010": [
+    "inflection_pattern_97",
+    "inflection_pattern_98",
+    "inflection_pattern_129",
+    "inflection_pattern_130",
+    "inflection_pattern_194",
+    "inflection_pattern_211",
+    "inflection_pattern_316"
+  ],
+  "010231042531204310210": [
+    "inflection_pattern_34",
+    "inflection_pattern_55",
+    "inflection_pattern_129",
+    "inflection_pattern_130",
+    "inflection_pattern_132",
+    "inflection_pattern_133",
+    "inflection_pattern_198",
+    "inflection_pattern_211",
+    "inflection_pattern_312"
+  ],
+  "010231042531204312010": [
+    "inflection_pattern_85",
+    "inflection_pattern_86",
+    "inflection_pattern_129",
+    "inflection_pattern_130",
+    "inflection_pattern_132",
+    "inflection_pattern_133",
+    "inflection_pattern_198",
+    "inflection_pattern_211",
+    "inflection_pattern_312"
+  ],
+  "010231201403521043210": [
+    "inflection_pattern_80"
+  ],
+  "010231204130251403210": [
+    "inflection_pattern_83",
+    "inflection_pattern_117",
+    "inflection_pattern_173",
+    "inflection_pattern_175",
+    "inflection_pattern_266"
+  ],
+  "010231204132051403210": [
+    "inflection_pattern_83",
+    "inflection_pattern_117",
+    "inflection_pattern_163",
+    "inflection_pattern_166",
+    "inflection_pattern_266"
+  ],
+  "010231204132501043210": [
+    "inflection_pattern_81",
+    "inflection_pattern_115"
+  ],
+  "010231204132501403210": [
+    "inflection_pattern_81",
+    "inflection_pattern_82",
+    "inflection_pattern_115",
+    "inflection_pattern_117",
+    "inflection_pattern_118",
+    "inflection_pattern_163",
+    "inflection_pattern_166",
+    "inflection_pattern_266",
+    "inflection_pattern_267",
+    "inflection_pattern_284"
+  ],
+  "010231204135021043210": [
+    "inflection_pattern_116"
+  ],
+  "010231204135201043210": [
+    "inflection_pattern_116"
+  ],
+  "010231204135201403210": [
+    "inflection_pattern_195"
+  ],
+  "010231204135204103210": [
+    "inflection_pattern_193"
+  ],
+  "010231204135204130210": [
+    "inflection_pattern_196"
+  ],
+  "010231240130251403210": [
+    "inflection_pattern_96",
+    "inflection_pattern_117",
+    "inflection_pattern_175",
+    "inflection_pattern_176",
+    "inflection_pattern_283"
+  ],
+  "010231240132015043210": [
+    "inflection_pattern_164"
+  ],
+  "010231240132051043210": [
+    "inflection_pattern_165"
+  ],
+  "010231240132501043210": [
+    "inflection_pattern_95",
+    "inflection_pattern_115",
+    "inflection_pattern_165",
+    "inflection_pattern_268"
+  ],
+  "010231240135021043210": [
+    "inflection_pattern_94",
+    "inflection_pattern_116",
+    "inflection_pattern_229",
+    "inflection_pattern_269"
+  ],
+  "010231240135201043210": [
+    "inflection_pattern_94",
+    "inflection_pattern_116",
+    "inflection_pattern_201",
+    "inflection_pattern_269"
+  ],
+  "010231240135201403210": [
+    "inflection_pattern_195",
+    "inflection_pattern_202"
+  ],
+  "010231240135204103210": [
+    "inflection_pattern_203"
+  ],
+  "010231240135204130210": [
+    "inflection_pattern_196",
+    "inflection_pattern_204"
+  ],
+  "010231240135204132010": [
+    "inflection_pattern_196",
+    "inflection_pattern_204"
+  ],
+  "010231402105324132010": [
+    "inflection_pattern_208",
+    "inflection_pattern_210"
+  ],
+  "010231402135204310210": [
+    "inflection_pattern_288"
+  ],
+  "010231402135240103210": [
+    "inflection_pattern_97",
+    "inflection_pattern_129",
+    "inflection_pattern_194",
+    "inflection_pattern_271"
+  ],
+  "010231402135240130210": [
+    "inflection_pattern_97",
+    "inflection_pattern_98",
+    "inflection_pattern_129",
+    "inflection_pattern_130",
+    "inflection_pattern_194",
+    "inflection_pattern_211",
+    "inflection_pattern_285"
+  ],
+  "010231402135240132010": [
+    "inflection_pattern_97",
+    "inflection_pattern_98",
+    "inflection_pattern_129",
+    "inflection_pattern_130",
+    "inflection_pattern_194",
+    "inflection_pattern_211",
+    "inflection_pattern_316"
+  ],
+  "010231402135240310210": [
+    "inflection_pattern_97",
+    "inflection_pattern_98",
+    "inflection_pattern_102",
+    "inflection_pattern_129",
+    "inflection_pattern_130",
+    "inflection_pattern_137",
+    "inflection_pattern_194",
+    "inflection_pattern_211",
+    "inflection_pattern_213",
+    "inflection_pattern_287"
+  ],
+  "010231402135240312010": [
+    "inflection_pattern_97",
+    "inflection_pattern_98",
+    "inflection_pattern_102",
+    "inflection_pattern_129",
+    "inflection_pattern_130",
+    "inflection_pattern_137",
+    "inflection_pattern_194",
+    "inflection_pattern_211",
+    "inflection_pattern_213",
+    "inflection_pattern_310"
+  ],
+  "010231402135243010210": [
+    "inflection_pattern_97",
+    "inflection_pattern_99",
+    "inflection_pattern_102",
+    "inflection_pattern_128",
+    "inflection_pattern_129",
+    "inflection_pattern_137",
+    "inflection_pattern_194",
+    "inflection_pattern_200",
+    "inflection_pattern_212",
+    "inflection_pattern_213",
+    "inflection_pattern_286"
+  ],
+  "010231402135243012010": [
+    "inflection_pattern_97",
+    "inflection_pattern_99",
+    "inflection_pattern_102",
+    "inflection_pattern_128",
+    "inflection_pattern_129",
+    "inflection_pattern_137",
+    "inflection_pattern_194",
+    "inflection_pattern_200",
+    "inflection_pattern_212",
+    "inflection_pattern_213",
+    "inflection_pattern_310",
+    "inflection_pattern_317"
+  ],
+  "010231402153204103210": [
+    "inflection_pattern_21",
+    "inflection_pattern_24",
+    "inflection_pattern_126",
+    "inflection_pattern_127",
+    "inflection_pattern_183",
+    "inflection_pattern_186",
+    "inflection_pattern_189",
+    "inflection_pattern_192",
+    "inflection_pattern_300",
+    "inflection_pattern_302",
+    "inflection_pattern_305"
+  ],
+  "010231402153204310210": [
+    "inflection_pattern_34",
+    "inflection_pattern_52",
+    "inflection_pattern_54"
+  ],
+  "010231402513204103210": [
+    "inflection_pattern_21",
+    "inflection_pattern_126",
+    "inflection_pattern_183",
+    "inflection_pattern_189",
+    "inflection_pattern_300",
+    "inflection_pattern_305"
+  ],
+  "010231402513204310210": [
+    "inflection_pattern_34",
+    "inflection_pattern_52"
+  ],
+  "010231402513240103210": [
+    "inflection_pattern_21",
+    "inflection_pattern_126",
+    "inflection_pattern_189",
+    "inflection_pattern_305"
+  ],
+  "010231402513240310210": [
+    "inflection_pattern_29"
+  ],
+  "010231402513243010210": [
+    "inflection_pattern_4",
+    "inflection_pattern_120",
+    "inflection_pattern_126",
+    "inflection_pattern_189",
+    "inflection_pattern_291"
+  ],
+  "010231402513243012010": [
+    "inflection_pattern_69",
+    "inflection_pattern_72",
+    "inflection_pattern_120",
+    "inflection_pattern_126",
+    "inflection_pattern_189",
+    "inflection_pattern_291"
+  ],
+  "010231402531042132010": [
+    "inflection_pattern_196",
+    "inflection_pattern_204"
+  ],
+  "010231402531201403210": [
+    "inflection_pattern_199",
+    "inflection_pattern_318"
+  ],
+  "010231402531204310210": [
+    "inflection_pattern_34"
+  ],
+  "010231402531243012010": [
+    "inflection_pattern_69"
+  ],
+  "010231402531420130210": [
+    "inflection_pattern_196"
+  ],
+  "010231402531420132010": [
+    "inflection_pattern_196"
+  ],
+  "010231420105324103210": [
+    "inflection_pattern_21",
+    "inflection_pattern_24",
+    "inflection_pattern_144",
+    "inflection_pattern_145",
+    "inflection_pattern_216",
+    "inflection_pattern_223",
+    "inflection_pattern_228",
+    "inflection_pattern_307"
+  ],
+  "010231420135204310210": [
+    "inflection_pattern_288"
+  ],
+  "010231420135240103210": [
+    "inflection_pattern_97",
+    "inflection_pattern_152",
+    "inflection_pattern_194",
+    "inflection_pattern_271"
+  ],
+  "010231420135240130210": [
+    "inflection_pattern_97",
+    "inflection_pattern_98",
+    "inflection_pattern_148",
+    "inflection_pattern_194",
+    "inflection_pattern_211",
+    "inflection_pattern_285"
+  ],
+  "010231420135240132010": [
+    "inflection_pattern_97",
+    "inflection_pattern_98",
+    "inflection_pattern_148",
+    "inflection_pattern_194",
+    "inflection_pattern_211",
+    "inflection_pattern_316"
+  ],
+  "010231420135240310210": [
+    "inflection_pattern_97",
+    "inflection_pattern_98",
+    "inflection_pattern_102",
+    "inflection_pattern_148",
+    "inflection_pattern_149",
+    "inflection_pattern_194",
+    "inflection_pattern_211",
+    "inflection_pattern_213",
+    "inflection_pattern_287"
+  ],
+  "010231420135240312010": [
+    "inflection_pattern_97",
+    "inflection_pattern_98",
+    "inflection_pattern_102",
+    "inflection_pattern_148",
+    "inflection_pattern_149",
+    "inflection_pattern_194",
+    "inflection_pattern_211",
+    "inflection_pattern_213",
+    "inflection_pattern_310"
+  ],
+  "010231420135243010210": [
+    "inflection_pattern_97",
+    "inflection_pattern_99",
+    "inflection_pattern_102",
+    "inflection_pattern_149",
+    "inflection_pattern_150",
+    "inflection_pattern_152",
+    "inflection_pattern_194",
+    "inflection_pattern_200",
+    "inflection_pattern_212",
+    "inflection_pattern_213",
+    "inflection_pattern_286"
+  ],
+  "010231420135243012010": [
+    "inflection_pattern_97",
+    "inflection_pattern_99",
+    "inflection_pattern_102",
+    "inflection_pattern_149",
+    "inflection_pattern_150",
+    "inflection_pattern_152",
+    "inflection_pattern_194",
+    "inflection_pattern_200",
+    "inflection_pattern_212",
+    "inflection_pattern_213",
+    "inflection_pattern_310",
+    "inflection_pattern_317"
+  ],
+  "010231420150324103210": [
+    "inflection_pattern_21",
+    "inflection_pattern_22",
+    "inflection_pattern_24",
+    "inflection_pattern_144",
+    "inflection_pattern_145",
+    "inflection_pattern_216",
+    "inflection_pattern_223",
+    "inflection_pattern_224",
+    "inflection_pattern_225",
+    "inflection_pattern_300",
+    "inflection_pattern_301",
+    "inflection_pattern_302",
+    "inflection_pattern_305",
+    "inflection_pattern_307"
+  ],
+  "010231420153024103210": [
+    "inflection_pattern_21",
+    "inflection_pattern_24",
+    "inflection_pattern_144",
+    "inflection_pattern_145",
+    "inflection_pattern_216",
+    "inflection_pattern_223",
+    "inflection_pattern_300",
+    "inflection_pattern_302",
+    "inflection_pattern_305"
+  ],
+  "010231420315240130210": [
+    "inflection_pattern_147"
+  ],
+  "010231420315240132010": [
+    "inflection_pattern_147"
+  ],
+  "010231420510324103210": [
+    "inflection_pattern_21",
+    "inflection_pattern_22",
+    "inflection_pattern_144",
+    "inflection_pattern_216",
+    "inflection_pattern_224",
+    "inflection_pattern_300",
+    "inflection_pattern_301",
+    "inflection_pattern_305"
+  ],
+  "010231420513024103210": [
+    "inflection_pattern_21",
+    "inflection_pattern_144",
+    "inflection_pattern_216",
+    "inflection_pattern_300",
+    "inflection_pattern_305"
+  ],
+  "010231420531021043210": [
+    "inflection_pattern_160"
+  ],
+  "010231420531021403210": [
+    "inflection_pattern_318"
+  ],
+  "010231420531042103210": [
+    "inflection_pattern_12",
+    "inflection_pattern_14",
+    "inflection_pattern_110",
+    "inflection_pattern_111",
+    "inflection_pattern_112",
+    "inflection_pattern_113",
+    "inflection_pattern_114",
+    "inflection_pattern_222",
+    "inflection_pattern_227",
+    "inflection_pattern_297",
+    "inflection_pattern_298"
+  ],
+  "010231420531201403210": [
+    "inflection_pattern_318"
+  ],
+  "010231420531204310210": [
+    "inflection_pattern_34"
+  ],
+  "010231420531243012010": [
+    "inflection_pattern_69"
+  ],
+  "010231420531402103210": [
+    "inflection_pattern_111",
+    "inflection_pattern_112",
+    "inflection_pattern_113",
+    "inflection_pattern_114"
+  ],
+  "010231423015201403210": [
+    "inflection_pattern_197"
+  ],
+  "010231423015204103210": [
+    "inflection_pattern_209"
+  ],
+  "010231423051204130210": [
+    "inflection_pattern_208"
+  ],
+  "010231423051240130210": [
+    "inflection_pattern_100",
+    "inflection_pattern_157",
+    "inflection_pattern_208",
+    "inflection_pattern_289"
+  ],
+  "010231423501204130210": [
+    "inflection_pattern_208",
+    "inflection_pattern_210"
+  ],
+  "010231423501204132010": [
+    "inflection_pattern_208",
+    "inflection_pattern_210"
+  ],
+  "010231423501240130210": [
+    "inflection_pattern_101",
+    "inflection_pattern_157",
+    "inflection_pattern_158",
+    "inflection_pattern_208",
+    "inflection_pattern_210",
+    "inflection_pattern_289",
+    "inflection_pattern_290"
+  ],
+  "010231423501240132010": [
+    "inflection_pattern_101",
+    "inflection_pattern_157",
+    "inflection_pattern_158",
+    "inflection_pattern_208",
+    "inflection_pattern_210",
+    "inflection_pattern_319"
+  ],
+  "010231425013024103210": [
+    "inflection_pattern_21",
+    "inflection_pattern_144",
+    "inflection_pattern_216",
+    "inflection_pattern_228",
+    "inflection_pattern_299"
+  ],
+  "010231425031021043210": [
+    "inflection_pattern_160"
+  ],
+  "010231425031021403210": [
+    "inflection_pattern_318"
+  ],
+  "010231425031042103210": [
+    "inflection_pattern_12",
+    "inflection_pattern_111",
+    "inflection_pattern_227",
+    "inflection_pattern_297"
+  ],
+  "010231425031201403210": [
+    "inflection_pattern_318"
+  ],
+  "010231425031402103210": [
+    "inflection_pattern_111"
+  ],
+  "010231425301240132010": [
+    "inflection_pattern_89"
+  ],
+  "010234120310210543210": [
+    "inflection_pattern_151",
+    "inflection_pattern_174",
+    "inflection_pattern_272"
+  ],
+  "010234120312010543210": [
+    "inflection_pattern_151",
+    "inflection_pattern_162",
+    "inflection_pattern_272"
+  ],
+  "012010324130251403210": [
+    "inflection_pattern_48"
+  ],
+  "012010324132051403210": [
+    "inflection_pattern_48",
+    "inflection_pattern_166"
+  ],
+  "012010324132501403210": [
+    "inflection_pattern_49",
+    "inflection_pattern_60",
+    "inflection_pattern_107",
+    "inflection_pattern_166",
+    "inflection_pattern_273"
+  ],
+  "012010324135204310210": [
+    "inflection_pattern_230"
+  ],
+  "012010342103210543210": [
+    "inflection_pattern_136"
+  ],
+  "012010342130215043210": [
+    "inflection_pattern_168"
+  ],
+  "012010342130251043210": [
+    "inflection_pattern_167"
+  ],
+  "012010342130521043210": [
+    "inflection_pattern_1",
+    "inflection_pattern_122",
+    "inflection_pattern_215",
+    "inflection_pattern_232"
+  ],
+  "012010342130521403210": [
+    "inflection_pattern_0",
+    "inflection_pattern_119",
+    "inflection_pattern_122",
+    "inflection_pattern_214",
+    "inflection_pattern_231"
+  ],
+  "012010342135204310210": [
+    "inflection_pattern_230",
+    "inflection_pattern_280"
+  ],
+  "012010342153204310210": [
+    "inflection_pattern_32",
+    "inflection_pattern_35",
+    "inflection_pattern_37",
+    "inflection_pattern_38",
+    "inflection_pattern_54",
+    "inflection_pattern_55"
+  ],
+  "012010342315204103210": [
+    "inflection_pattern_3",
+    "inflection_pattern_120",
+    "inflection_pattern_177",
+    "inflection_pattern_235"
+  ],
+  "012010342315204130210": [
+    "inflection_pattern_4",
+    "inflection_pattern_120",
+    "inflection_pattern_126",
+    "inflection_pattern_189",
+    "inflection_pattern_233"
+  ],
+  "012010342315204132010": [
+    "inflection_pattern_4",
+    "inflection_pattern_120",
+    "inflection_pattern_126",
+    "inflection_pattern_189",
+    "inflection_pattern_291"
+  ],
+  "012010342315204310210": [
+    "inflection_pattern_4",
+    "inflection_pattern_5",
+    "inflection_pattern_6",
+    "inflection_pattern_120",
+    "inflection_pattern_121",
+    "inflection_pattern_126",
+    "inflection_pattern_189",
+    "inflection_pattern_190",
+    "inflection_pattern_191",
+    "inflection_pattern_236",
+    "inflection_pattern_281"
+  ],
+  "012010342315204312010": [
+    "inflection_pattern_4",
+    "inflection_pattern_5",
+    "inflection_pattern_6",
+    "inflection_pattern_120",
+    "inflection_pattern_121",
+    "inflection_pattern_126",
+    "inflection_pattern_189",
+    "inflection_pattern_190",
+    "inflection_pattern_191",
+    "inflection_pattern_292"
+  ],
+  "012010342315240130210": [
+    "inflection_pattern_2",
+    "inflection_pattern_126",
+    "inflection_pattern_188",
+    "inflection_pattern_234"
+  ],
+  "012010342315240132010": [
+    "inflection_pattern_2",
+    "inflection_pattern_126",
+    "inflection_pattern_188",
+    "inflection_pattern_293"
+  ],
+  "012010342315240310210": [
+    "inflection_pattern_6",
+    "inflection_pattern_126",
+    "inflection_pattern_191",
+    "inflection_pattern_236"
+  ],
+  "012010342315240312010": [
+    "inflection_pattern_6",
+    "inflection_pattern_126",
+    "inflection_pattern_191",
+    "inflection_pattern_294"
+  ],
+  "012010342351240130210": [
+    "inflection_pattern_2",
+    "inflection_pattern_24",
+    "inflection_pattern_126",
+    "inflection_pattern_127",
+    "inflection_pattern_188",
+    "inflection_pattern_192",
+    "inflection_pattern_234",
+    "inflection_pattern_237"
+  ],
+  "012010342351240132010": [
+    "inflection_pattern_2",
+    "inflection_pattern_24",
+    "inflection_pattern_126",
+    "inflection_pattern_127",
+    "inflection_pattern_188",
+    "inflection_pattern_192",
+    "inflection_pattern_293",
+    "inflection_pattern_295"
+  ],
+  "012010342351240310210": [
+    "inflection_pattern_6",
+    "inflection_pattern_24",
+    "inflection_pattern_126",
+    "inflection_pattern_127",
+    "inflection_pattern_191",
+    "inflection_pattern_192",
+    "inflection_pattern_236",
+    "inflection_pattern_237",
+    "inflection_pattern_238"
+  ],
+  "012010342351240312010": [
+    "inflection_pattern_6",
+    "inflection_pattern_24",
+    "inflection_pattern_126",
+    "inflection_pattern_127",
+    "inflection_pattern_191",
+    "inflection_pattern_192",
+    "inflection_pattern_294",
+    "inflection_pattern_296"
+  ],
+  "012010342513024312010": [
+    "inflection_pattern_87",
+    "inflection_pattern_156",
+    "inflection_pattern_212",
+    "inflection_pattern_279"
+  ],
+  "012010342513204310210": [
+    "inflection_pattern_32",
+    "inflection_pattern_35",
+    "inflection_pattern_38",
+    "inflection_pattern_55",
+    "inflection_pattern_135",
+    "inflection_pattern_212",
+    "inflection_pattern_279"
+  ],
+  "012010342513204312010": [
+    "inflection_pattern_87",
+    "inflection_pattern_135",
+    "inflection_pattern_212",
+    "inflection_pattern_279"
+  ],
+  "012010342531024103210": [
+    "inflection_pattern_17",
+    "inflection_pattern_140",
+    "inflection_pattern_141",
+    "inflection_pattern_143",
+    "inflection_pattern_184",
+    "inflection_pattern_200",
+    "inflection_pattern_212",
+    "inflection_pattern_213",
+    "inflection_pattern_286"
+  ],
+  "012010342531024130210": [
+    "inflection_pattern_46",
+    "inflection_pattern_47",
+    "inflection_pattern_149",
+    "inflection_pattern_150",
+    "inflection_pattern_152",
+    "inflection_pattern_194",
+    "inflection_pattern_200",
+    "inflection_pattern_212",
+    "inflection_pattern_213",
+    "inflection_pattern_286"
+  ],
+  "012010342531024132010": [
+    "inflection_pattern_97",
+    "inflection_pattern_99",
+    "inflection_pattern_102",
+    "inflection_pattern_149",
+    "inflection_pattern_150",
+    "inflection_pattern_152",
+    "inflection_pattern_194",
+    "inflection_pattern_200",
+    "inflection_pattern_212",
+    "inflection_pattern_213",
+    "inflection_pattern_286"
+  ],
+  "012010342531024312010": [
+    "inflection_pattern_86",
+    "inflection_pattern_87",
+    "inflection_pattern_102",
+    "inflection_pattern_146",
+    "inflection_pattern_152",
+    "inflection_pattern_153",
+    "inflection_pattern_155",
+    "inflection_pattern_156",
+    "inflection_pattern_198",
+    "inflection_pattern_212",
+    "inflection_pattern_213",
+    "inflection_pattern_276",
+    "inflection_pattern_279"
+  ],
+  "012010342531204103210": [
+    "inflection_pattern_17",
+    "inflection_pattern_123",
+    "inflection_pattern_124",
+    "inflection_pattern_137",
+    "inflection_pattern_184",
+    "inflection_pattern_200",
+    "inflection_pattern_212",
+    "inflection_pattern_213",
+    "inflection_pattern_286"
+  ],
+  "012010342531204130210": [
+    "inflection_pattern_46",
+    "inflection_pattern_47",
+    "inflection_pattern_128",
+    "inflection_pattern_129",
+    "inflection_pattern_137",
+    "inflection_pattern_194",
+    "inflection_pattern_200",
+    "inflection_pattern_212",
+    "inflection_pattern_213",
+    "inflection_pattern_286"
+  ],
+  "012010342531204132010": [
+    "inflection_pattern_97",
+    "inflection_pattern_99",
+    "inflection_pattern_102",
+    "inflection_pattern_128",
+    "inflection_pattern_129",
+    "inflection_pattern_137",
+    "inflection_pattern_194",
+    "inflection_pattern_200",
+    "inflection_pattern_212",
+    "inflection_pattern_213",
+    "inflection_pattern_286"
+  ],
+  "012010342531204310210": [
+    "inflection_pattern_35",
+    "inflection_pattern_38",
+    "inflection_pattern_55",
+    "inflection_pattern_129",
+    "inflection_pattern_132",
+    "inflection_pattern_134",
+    "inflection_pattern_135",
+    "inflection_pattern_137",
+    "inflection_pattern_198",
+    "inflection_pattern_212",
+    "inflection_pattern_213",
+    "inflection_pattern_276",
+    "inflection_pattern_279"
+  ],
+  "012010342531204312010": [
+    "inflection_pattern_86",
+    "inflection_pattern_87",
+    "inflection_pattern_102",
+    "inflection_pattern_129",
+    "inflection_pattern_132",
+    "inflection_pattern_134",
+    "inflection_pattern_135",
+    "inflection_pattern_137",
+    "inflection_pattern_198",
+    "inflection_pattern_212",
+    "inflection_pattern_213",
+    "inflection_pattern_276",
+    "inflection_pattern_279"
+  ],
+  "012010342531240132010": [
+    "inflection_pattern_84"
+  ],
+  "012010342531420310210": [
+    "inflection_pattern_39"
+  ],
+  "012013024130251403210": [
+    "inflection_pattern_28",
+    "inflection_pattern_48",
+    "inflection_pattern_104",
+    "inflection_pattern_172",
+    "inflection_pattern_262"
+  ],
+  "012013024132051403210": [
+    "inflection_pattern_28",
+    "inflection_pattern_48",
+    "inflection_pattern_104",
+    "inflection_pattern_163",
+    "inflection_pattern_166",
+    "inflection_pattern_262"
+  ],
+  "012013024132501403210": [
+    "inflection_pattern_49",
+    "inflection_pattern_60",
+    "inflection_pattern_104",
+    "inflection_pattern_105",
+    "inflection_pattern_107",
+    "inflection_pattern_163",
+    "inflection_pattern_166",
+    "inflection_pattern_263",
+    "inflection_pattern_273"
+  ],
+  "012013024135204310210": [
+    "inflection_pattern_264"
+  ],
+  "012013024135243010210": [
+    "inflection_pattern_39"
+  ],
+  "012013024135243012010": [
+    "inflection_pattern_39"
+  ],
+  "012013042103210543210": [
+    "inflection_pattern_136"
+  ],
+  "012013042130521403210": [
+    "inflection_pattern_26"
+  ],
+  "012013042135204310210": [
+    "inflection_pattern_264",
+    "inflection_pattern_265",
+    "inflection_pattern_280"
+  ],
+  "012013042153204310210": [
+    "inflection_pattern_30",
+    "inflection_pattern_32",
+    "inflection_pattern_34",
+    "inflection_pattern_35",
+    "inflection_pattern_36",
+    "inflection_pattern_37",
+    "inflection_pattern_38",
+    "inflection_pattern_52",
+    "inflection_pattern_54",
+    "inflection_pattern_55"
+  ],
+  "012013042153243010210": [
+    "inflection_pattern_6",
+    "inflection_pattern_24",
+    "inflection_pattern_126",
+    "inflection_pattern_127",
+    "inflection_pattern_191",
+    "inflection_pattern_192",
+    "inflection_pattern_236",
+    "inflection_pattern_237",
+    "inflection_pattern_238"
+  ],
+  "012013042153243012010": [
+    "inflection_pattern_76",
+    "inflection_pattern_77",
+    "inflection_pattern_126",
+    "inflection_pattern_127",
+    "inflection_pattern_191",
+    "inflection_pattern_192",
+    "inflection_pattern_236",
+    "inflection_pattern_237",
+    "inflection_pattern_238"
+  ],
+  "012013042312015043210": [
+    "inflection_pattern_25"
+  ],
+  "012013042312051043210": [
+    "inflection_pattern_27"
+  ],
+  "012013042315204130210": [
+    "inflection_pattern_29"
+  ],
+  "012013042315204132010": [
+    "inflection_pattern_29"
+  ],
+  "012013042315204310210": [
+    "inflection_pattern_40",
+    "inflection_pattern_281"
+  ],
+  "012013042315204312010": [
+    "inflection_pattern_40"
+  ],
+  "012013042513024312010": [
+    "inflection_pattern_279"
+  ],
+  "012013042513204310210": [
+    "inflection_pattern_30",
+    "inflection_pattern_32",
+    "inflection_pattern_34",
+    "inflection_pattern_35",
+    "inflection_pattern_38",
+    "inflection_pattern_52",
+    "inflection_pattern_55",
+    "inflection_pattern_279"
+  ],
+  "012013042513204312010": [
+    "inflection_pattern_279"
+  ],
+  "012013042513243010210": [
+    "inflection_pattern_6",
+    "inflection_pattern_126",
+    "inflection_pattern_191",
+    "inflection_pattern_236"
+  ],
+  "012013042513243012010": [
+    "inflection_pattern_76",
+    "inflection_pattern_126",
+    "inflection_pattern_191",
+    "inflection_pattern_236"
+  ],
+  "012013042531024103210": [
+    "inflection_pattern_17",
+    "inflection_pattern_23",
+    "inflection_pattern_140",
+    "inflection_pattern_142",
+    "inflection_pattern_143",
+    "inflection_pattern_184",
+    "inflection_pattern_187",
+    "inflection_pattern_211",
+    "inflection_pattern_213",
+    "inflection_pattern_287"
+  ],
+  "012013042531024130210": [
+    "inflection_pattern_45",
+    "inflection_pattern_46",
+    "inflection_pattern_47",
+    "inflection_pattern_148",
+    "inflection_pattern_149",
+    "inflection_pattern_194",
+    "inflection_pattern_211",
+    "inflection_pattern_213",
+    "inflection_pattern_287"
+  ],
+  "012013042531024132010": [
+    "inflection_pattern_97",
+    "inflection_pattern_98",
+    "inflection_pattern_102",
+    "inflection_pattern_148",
+    "inflection_pattern_149",
+    "inflection_pattern_194",
+    "inflection_pattern_211",
+    "inflection_pattern_213",
+    "inflection_pattern_287"
+  ],
+  "012013042531024312010": [
+    "inflection_pattern_85",
+    "inflection_pattern_86",
+    "inflection_pattern_102",
+    "inflection_pattern_146",
+    "inflection_pattern_198",
+    "inflection_pattern_211",
+    "inflection_pattern_213",
+    "inflection_pattern_278",
+    "inflection_pattern_279"
+  ],
+  "012013042531204103210": [
+    "inflection_pattern_17",
+    "inflection_pattern_23",
+    "inflection_pattern_123",
+    "inflection_pattern_125",
+    "inflection_pattern_137",
+    "inflection_pattern_184",
+    "inflection_pattern_187",
+    "inflection_pattern_211",
+    "inflection_pattern_213",
+    "inflection_pattern_287"
+  ],
+  "012013042531204130210": [
+    "inflection_pattern_45",
+    "inflection_pattern_46",
+    "inflection_pattern_47",
+    "inflection_pattern_129",
+    "inflection_pattern_130",
+    "inflection_pattern_137",
+    "inflection_pattern_194",
+    "inflection_pattern_211",
+    "inflection_pattern_213",
+    "inflection_pattern_287"
+  ],
+  "012013042531204132010": [
+    "inflection_pattern_97",
+    "inflection_pattern_98",
+    "inflection_pattern_102",
+    "inflection_pattern_129",
+    "inflection_pattern_130",
+    "inflection_pattern_137",
+    "inflection_pattern_194",
+    "inflection_pattern_211",
+    "inflection_pattern_213",
+    "inflection_pattern_287"
+  ],
+  "012013042531204310210": [
+    "inflection_pattern_34",
+    "inflection_pattern_35",
+    "inflection_pattern_38",
+    "inflection_pattern_55",
+    "inflection_pattern_129",
+    "inflection_pattern_130",
+    "inflection_pattern_132",
+    "inflection_pattern_133",
+    "inflection_pattern_137",
+    "inflection_pattern_198",
+    "inflection_pattern_211",
+    "inflection_pattern_213",
+    "inflection_pattern_278",
+    "inflection_pattern_279"
+  ],
+  "012013042531204312010": [
+    "inflection_pattern_85",
+    "inflection_pattern_86",
+    "inflection_pattern_102",
+    "inflection_pattern_129",
+    "inflection_pattern_130",
+    "inflection_pattern_132",
+    "inflection_pattern_133",
+    "inflection_pattern_137",
+    "inflection_pattern_198",
+    "inflection_pattern_211",
+    "inflection_pattern_213",
+    "inflection_pattern_278",
+    "inflection_pattern_279"
+  ],
+  "012013402103210543210": [
+    "inflection_pattern_136"
+  ],
+  "012013402135024103210": [
+    "inflection_pattern_33"
+  ],
+  "012013402135024130210": [
+    "inflection_pattern_34"
+  ],
+  "012013402135024132010": [
+    "inflection_pattern_34"
+  ],
+  "012013402135024312010": [
+    "inflection_pattern_34",
+    "inflection_pattern_35"
+  ],
+  "012013402135204103210": [
+    "inflection_pattern_33"
+  ],
+  "012013402135204130210": [
+    "inflection_pattern_34"
+  ],
+  "012013402135204132010": [
+    "inflection_pattern_34"
+  ],
+  "012013402135204310210": [
+    "inflection_pattern_34",
+    "inflection_pattern_35",
+    "inflection_pattern_264",
+    "inflection_pattern_265",
+    "inflection_pattern_275",
+    "inflection_pattern_280"
+  ],
+  "012013402135204312010": [
+    "inflection_pattern_34",
+    "inflection_pattern_35"
+  ],
+  "012013402135240103210": [
+    "inflection_pattern_55",
+    "inflection_pattern_129",
+    "inflection_pattern_132",
+    "inflection_pattern_198",
+    "inflection_pattern_274"
+  ],
+  "012013402135240130210": [
+    "inflection_pattern_34",
+    "inflection_pattern_55",
+    "inflection_pattern_129",
+    "inflection_pattern_130",
+    "inflection_pattern_132",
+    "inflection_pattern_133",
+    "inflection_pattern_198",
+    "inflection_pattern_211",
+    "inflection_pattern_274",
+    "inflection_pattern_277"
+  ],
+  "012013402135240132010": [
+    "inflection_pattern_34",
+    "inflection_pattern_55",
+    "inflection_pattern_129",
+    "inflection_pattern_130",
+    "inflection_pattern_132",
+    "inflection_pattern_133",
+    "inflection_pattern_198",
+    "inflection_pattern_211",
+    "inflection_pattern_312"
+  ],
+  "012013402135240310210": [
+    "inflection_pattern_34",
+    "inflection_pattern_35",
+    "inflection_pattern_38",
+    "inflection_pattern_55",
+    "inflection_pattern_129",
+    "inflection_pattern_130",
+    "inflection_pattern_132",
+    "inflection_pattern_133",
+    "inflection_pattern_137",
+    "inflection_pattern_198",
+    "inflection_pattern_211",
+    "inflection_pattern_213",
+    "inflection_pattern_278",
+    "inflection_pattern_279"
+  ],
+  "012013402135240312010": [
+    "inflection_pattern_34",
+    "inflection_pattern_35",
+    "inflection_pattern_38",
+    "inflection_pattern_55",
+    "inflection_pattern_129",
+    "inflection_pattern_130",
+    "inflection_pattern_132",
+    "inflection_pattern_133",
+    "inflection_pattern_137",
+    "inflection_pattern_198",
+    "inflection_pattern_211",
+    "inflection_pattern_213",
+    "inflection_pattern_313"
+  ],
+  "012013402135243010210": [
+    "inflection_pattern_35",
+    "inflection_pattern_38",
+    "inflection_pattern_55",
+    "inflection_pattern_129",
+    "inflection_pattern_132",
+    "inflection_pattern_134",
+    "inflection_pattern_135",
+    "inflection_pattern_137",
+    "inflection_pattern_198",
+    "inflection_pattern_212",
+    "inflection_pattern_213",
+    "inflection_pattern_276",
+    "inflection_pattern_279"
+  ],
+  "012013402135243012010": [
+    "inflection_pattern_35",
+    "inflection_pattern_38",
+    "inflection_pattern_55",
+    "inflection_pattern_129",
+    "inflection_pattern_132",
+    "inflection_pattern_134",
+    "inflection_pattern_135",
+    "inflection_pattern_137",
+    "inflection_pattern_198",
+    "inflection_pattern_212",
+    "inflection_pattern_213",
+    "inflection_pattern_311",
+    "inflection_pattern_313",
+    "inflection_pattern_315"
+  ],
+  "012013402153024312010": [
+    "inflection_pattern_281",
+    "inflection_pattern_282"
+  ],
+  "012013402153204310210": [
+    "inflection_pattern_32",
+    "inflection_pattern_34",
+    "inflection_pattern_35",
+    "inflection_pattern_37",
+    "inflection_pattern_40",
+    "inflection_pattern_52",
+    "inflection_pattern_54",
+    "inflection_pattern_281",
+    "inflection_pattern_282"
+  ],
+  "012013402153204312010": [
+    "inflection_pattern_281",
+    "inflection_pattern_282"
+  ],
+  "012013402312501043210": [
+    "inflection_pattern_50"
+  ],
+  "012013402315201043210": [
+    "inflection_pattern_53"
+  ],
+  "012013402315201403210": [
+    "inflection_pattern_51",
+    "inflection_pattern_53"
+  ],
+  "012013402315204103210": [
+    "inflection_pattern_31",
+    "inflection_pattern_33"
+  ],
+  "012013402315204130210": [
+    "inflection_pattern_34",
+    "inflection_pattern_52"
+  ],
+  "012013402315204132010": [
+    "inflection_pattern_34",
+    "inflection_pattern_52"
+  ],
+  "012013402315204310210": [
+    "inflection_pattern_32",
+    "inflection_pattern_34",
+    "inflection_pattern_35",
+    "inflection_pattern_40",
+    "inflection_pattern_52",
+    "inflection_pattern_281"
+  ],
+  "012013402315204312010": [
+    "inflection_pattern_32",
+    "inflection_pattern_34",
+    "inflection_pattern_35",
+    "inflection_pattern_40",
+    "inflection_pattern_52"
+  ],
+  "012013402315240103210": [
+    "inflection_pattern_55"
+  ],
+  "012013402315240130210": [
+    "inflection_pattern_30",
+    "inflection_pattern_34",
+    "inflection_pattern_52",
+    "inflection_pattern_55"
+  ],
+  "012013402315240132010": [
+    "inflection_pattern_30",
+    "inflection_pattern_34",
+    "inflection_pattern_52",
+    "inflection_pattern_55"
+  ],
+  "012013402315240310210": [
+    "inflection_pattern_30",
+    "inflection_pattern_32",
+    "inflection_pattern_34",
+    "inflection_pattern_35",
+    "inflection_pattern_38",
+    "inflection_pattern_52",
+    "inflection_pattern_55",
+    "inflection_pattern_279"
+  ],
+  "012013402315240312010": [
+    "inflection_pattern_30",
+    "inflection_pattern_32",
+    "inflection_pattern_34",
+    "inflection_pattern_35",
+    "inflection_pattern_38",
+    "inflection_pattern_52",
+    "inflection_pattern_55"
+  ],
+  "012013402315243010210": [
+    "inflection_pattern_32",
+    "inflection_pattern_35",
+    "inflection_pattern_38",
+    "inflection_pattern_55",
+    "inflection_pattern_135",
+    "inflection_pattern_212",
+    "inflection_pattern_279"
+  ],
+  "012013402315243012010": [
+    "inflection_pattern_32",
+    "inflection_pattern_35",
+    "inflection_pattern_38",
+    "inflection_pattern_55",
+    "inflection_pattern_135",
+    "inflection_pattern_212",
+    "inflection_pattern_315"
+  ],
+  "012013402351204103210": [
+    "inflection_pattern_31",
+    "inflection_pattern_33",
+    "inflection_pattern_54"
+  ],
+  "012013402351204130210": [
+    "inflection_pattern_34",
+    "inflection_pattern_52",
+    "inflection_pattern_54"
+  ],
+  "012013402351204132010": [
+    "inflection_pattern_34",
+    "inflection_pattern_52",
+    "inflection_pattern_54"
+  ],
+  "012013402351204310210": [
+    "inflection_pattern_32",
+    "inflection_pattern_34",
+    "inflection_pattern_35",
+    "inflection_pattern_37",
+    "inflection_pattern_40",
+    "inflection_pattern_52",
+    "inflection_pattern_54",
+    "inflection_pattern_281",
+    "inflection_pattern_282"
+  ],
+  "012013402351204312010": [
+    "inflection_pattern_32",
+    "inflection_pattern_34",
+    "inflection_pattern_35",
+    "inflection_pattern_37",
+    "inflection_pattern_40",
+    "inflection_pattern_52",
+    "inflection_pattern_54"
+  ],
+  "012013402351240103210": [
+    "inflection_pattern_54",
+    "inflection_pattern_55"
+  ],
+  "012013402351240130210": [
+    "inflection_pattern_30",
+    "inflection_pattern_34",
+    "inflection_pattern_36",
+    "inflection_pattern_52",
+    "inflection_pattern_54",
+    "inflection_pattern_55"
+  ],
+  "012013402351240132010": [
+    "inflection_pattern_30",
+    "inflection_pattern_34",
+    "inflection_pattern_36",
+    "inflection_pattern_52",
+    "inflection_pattern_54",
+    "inflection_pattern_55"
+  ],
+  "012013402351240310210": [
+    "inflection_pattern_30",
+    "inflection_pattern_32",
+    "inflection_pattern_34",
+    "inflection_pattern_35",
+    "inflection_pattern_36",
+    "inflection_pattern_37",
+    "inflection_pattern_38",
+    "inflection_pattern_52",
+    "inflection_pattern_54",
+    "inflection_pattern_55"
+  ],
+  "012013402351240312010": [
+    "inflection_pattern_30",
+    "inflection_pattern_32",
+    "inflection_pattern_34",
+    "inflection_pattern_35",
+    "inflection_pattern_36",
+    "inflection_pattern_37",
+    "inflection_pattern_38",
+    "inflection_pattern_52",
+    "inflection_pattern_54",
+    "inflection_pattern_55"
+  ],
+  "012013402351243010210": [
+    "inflection_pattern_32",
+    "inflection_pattern_35",
+    "inflection_pattern_37",
+    "inflection_pattern_38",
+    "inflection_pattern_54",
+    "inflection_pattern_55"
+  ],
+  "012013402351243012010": [
+    "inflection_pattern_32",
+    "inflection_pattern_35",
+    "inflection_pattern_37",
+    "inflection_pattern_38",
+    "inflection_pattern_54",
+    "inflection_pattern_55",
+    "inflection_pattern_314"
+  ],
+  "012013402513024312010": [
+    "inflection_pattern_281"
+  ],
+  "012013402513204310210": [
+    "inflection_pattern_32",
+    "inflection_pattern_34",
+    "inflection_pattern_35",
+    "inflection_pattern_40",
+    "inflection_pattern_52",
+    "inflection_pattern_281"
+  ],
+  "012013402513204312010": [
+    "inflection_pattern_281"
+  ],
+  "012013402513240310210": [
+    "inflection_pattern_40",
+    "inflection_pattern_281"
+  ],
+  "012013402513240312010": [
+    "inflection_pattern_281"
+  ],
+  "012013402513243010210": [
+    "inflection_pattern_4",
+    "inflection_pattern_5",
+    "inflection_pattern_6",
+    "inflection_pattern_120",
+    "inflection_pattern_121",
+    "inflection_pattern_126",
+    "inflection_pattern_189",
+    "inflection_pattern_190",
+    "inflection_pattern_191",
+    "inflection_pattern_236",
+    "inflection_pattern_281"
+  ],
+  "012013402513243012010": [
+    "inflection_pattern_71",
+    "inflection_pattern_72",
+    "inflection_pattern_75",
+    "inflection_pattern_76",
+    "inflection_pattern_120",
+    "inflection_pattern_121",
+    "inflection_pattern_126",
+    "inflection_pattern_189",
+    "inflection_pattern_190",
+    "inflection_pattern_191",
+    "inflection_pattern_236",
+    "inflection_pattern_281"
+  ],
+  "012013402531024103210": [
+    "inflection_pattern_184",
+    "inflection_pattern_288"
+  ],
+  "012013402531024130210": [
+    "inflection_pattern_288"
+  ],
+  "012013402531024132010": [
+    "inflection_pattern_288"
+  ],
+  "012013402531024312010": [
+    "inflection_pattern_264",
+    "inflection_pattern_265",
+    "inflection_pattern_275",
+    "inflection_pattern_280"
+  ],
+  "012013402531204103210": [
+    "inflection_pattern_184",
+    "inflection_pattern_288"
+  ],
+  "012013402531204130210": [
+    "inflection_pattern_288"
+  ],
+  "012013402531204132010": [
+    "inflection_pattern_288"
+  ],
+  "012013402531204310210": [
+    "inflection_pattern_34",
+    "inflection_pattern_35",
+    "inflection_pattern_264",
+    "inflection_pattern_265",
+    "inflection_pattern_275",
+    "inflection_pattern_280"
+  ],
+  "012013402531204312010": [
+    "inflection_pattern_264",
+    "inflection_pattern_265",
+    "inflection_pattern_275",
+    "inflection_pattern_280"
+  ],
+  "012013402531240103210": [
+    "inflection_pattern_288"
+  ],
+  "012013402531240130210": [
+    "inflection_pattern_270",
+    "inflection_pattern_288"
+  ],
+  "012013402531240132010": [
+    "inflection_pattern_270",
+    "inflection_pattern_288"
+  ],
+  "012013402531240310210": [
+    "inflection_pattern_264",
+    "inflection_pattern_265",
+    "inflection_pattern_280"
+  ],
+  "012013402531240312010": [
+    "inflection_pattern_264",
+    "inflection_pattern_265",
+    "inflection_pattern_280"
+  ],
+  "012013402531243010210": [
+    "inflection_pattern_230",
+    "inflection_pattern_280"
+  ],
+  "012013402531243012010": [
+    "inflection_pattern_71",
+    "inflection_pattern_230",
+    "inflection_pattern_280"
+  ],
+  "012013402531420310210": [
+    "inflection_pattern_264"
+  ],
+  "012013402531420312010": [
+    "inflection_pattern_264"
+  ],
+  "012013402531423010210": [
+    "inflection_pattern_230"
+  ],
+  "012013402531423012010": [
+    "inflection_pattern_230"
+  ],
+  "012031021043521043210": [
+    "inflection_pattern_103"
+  ],
+  "012031024130251403210": [
+    "inflection_pattern_41",
+    "inflection_pattern_58",
+    "inflection_pattern_104",
+    "inflection_pattern_106",
+    "inflection_pattern_173",
+    "inflection_pattern_175",
+    "inflection_pattern_266"
+  ],
+  "012031024132051403210": [
+    "inflection_pattern_41",
+    "inflection_pattern_58",
+    "inflection_pattern_104",
+    "inflection_pattern_106",
+    "inflection_pattern_163",
+    "inflection_pattern_166",
+    "inflection_pattern_266"
+  ],
+  "012031024132501403210": [
+    "inflection_pattern_41",
+    "inflection_pattern_42",
+    "inflection_pattern_58",
+    "inflection_pattern_60",
+    "inflection_pattern_104",
+    "inflection_pattern_105",
+    "inflection_pattern_106",
+    "inflection_pattern_107",
+    "inflection_pattern_163",
+    "inflection_pattern_166",
+    "inflection_pattern_266",
+    "inflection_pattern_267",
+    "inflection_pattern_284"
+  ],
+  "012031024135201403210": [
+    "inflection_pattern_195"
+  ],
+  "012031024135204103210": [
+    "inflection_pattern_193"
+  ],
+  "012031024135204130210": [
+    "inflection_pattern_196"
+  ],
+  "012031024135204132010": [
+    "inflection_pattern_196"
+  ],
+  "012031042105324103210": [
+    "inflection_pattern_16",
+    "inflection_pattern_20",
+    "inflection_pattern_21",
+    "inflection_pattern_23",
+    "inflection_pattern_24",
+    "inflection_pattern_59",
+    "inflection_pattern_138",
+    "inflection_pattern_142",
+    "inflection_pattern_144",
+    "inflection_pattern_145",
+    "inflection_pattern_157",
+    "inflection_pattern_158",
+    "inflection_pattern_181",
+    "inflection_pattern_182",
+    "inflection_pattern_183",
+    "inflection_pattern_186",
+    "inflection_pattern_188",
+    "inflection_pattern_192",
+    "inflection_pattern_208",
+    "inflection_pattern_210",
+    "inflection_pattern_256",
+    "inflection_pattern_259",
+    "inflection_pattern_260",
+    "inflection_pattern_261",
+    "inflection_pattern_289",
+    "inflection_pattern_290"
+  ],
+  "012031042105324130210": [
+    "inflection_pattern_59",
+    "inflection_pattern_157",
+    "inflection_pattern_158",
+    "inflection_pattern_208",
+    "inflection_pattern_210",
+    "inflection_pattern_289",
+    "inflection_pattern_290"
+  ],
+  "012031042105324132010": [
+    "inflection_pattern_101",
+    "inflection_pattern_157",
+    "inflection_pattern_158",
+    "inflection_pattern_208",
+    "inflection_pattern_210",
+    "inflection_pattern_289",
+    "inflection_pattern_290"
+  ],
+  "012031042135204310210": [
+    "inflection_pattern_270",
+    "inflection_pattern_288"
+  ],
+  "012031042135243012010": [
+    "inflection_pattern_309"
+  ],
+  "012031042150324130210": [
+    "inflection_pattern_59",
+    "inflection_pattern_157",
+    "inflection_pattern_208",
+    "inflection_pattern_289"
+  ],
+  "012031042150324132010": [
+    "inflection_pattern_100",
+    "inflection_pattern_157",
+    "inflection_pattern_208",
+    "inflection_pattern_289"
+  ],
+  "012031042153024103210": [
+    "inflection_pattern_20",
+    "inflection_pattern_21",
+    "inflection_pattern_23",
+    "inflection_pattern_24",
+    "inflection_pattern_142",
+    "inflection_pattern_144",
+    "inflection_pattern_145",
+    "inflection_pattern_183",
+    "inflection_pattern_186",
+    "inflection_pattern_188",
+    "inflection_pattern_192",
+    "inflection_pattern_239",
+    "inflection_pattern_259",
+    "inflection_pattern_260",
+    "inflection_pattern_261"
+  ],
+  "012031042153204103210": [
+    "inflection_pattern_20",
+    "inflection_pattern_21",
+    "inflection_pattern_23",
+    "inflection_pattern_24",
+    "inflection_pattern_125",
+    "inflection_pattern_126",
+    "inflection_pattern_127",
+    "inflection_pattern_183",
+    "inflection_pattern_186",
+    "inflection_pattern_188",
+    "inflection_pattern_192",
+    "inflection_pattern_239",
+    "inflection_pattern_259",
+    "inflection_pattern_260",
+    "inflection_pattern_261"
+  ],
+  "012031042153204310210": [
+    "inflection_pattern_30",
+    "inflection_pattern_34",
+    "inflection_pattern_36",
+    "inflection_pattern_52",
+    "inflection_pattern_54",
+    "inflection_pattern_55"
+  ],
+  "012031042153240103210": [
+    "inflection_pattern_20",
+    "inflection_pattern_21",
+    "inflection_pattern_24",
+    "inflection_pattern_126",
+    "inflection_pattern_127",
+    "inflection_pattern_186",
+    "inflection_pattern_188",
+    "inflection_pattern_192",
+    "inflection_pattern_259",
+    "inflection_pattern_260",
+    "inflection_pattern_261"
+  ],
+  "012031042153243010210": [
+    "inflection_pattern_2",
+    "inflection_pattern_24",
+    "inflection_pattern_126",
+    "inflection_pattern_127",
+    "inflection_pattern_188",
+    "inflection_pattern_192",
+    "inflection_pattern_234",
+    "inflection_pattern_237"
+  ],
+  "012031042153243012010": [
+    "inflection_pattern_73",
+    "inflection_pattern_77",
+    "inflection_pattern_126",
+    "inflection_pattern_127",
+    "inflection_pattern_188",
+    "inflection_pattern_192",
+    "inflection_pattern_234",
+    "inflection_pattern_237"
+  ],
+  "012031042513024103210": [
+    "inflection_pattern_20",
+    "inflection_pattern_21",
+    "inflection_pattern_23",
+    "inflection_pattern_139",
+    "inflection_pattern_142",
+    "inflection_pattern_144",
+    "inflection_pattern_183",
+    "inflection_pattern_188",
+    "inflection_pattern_239",
+    "inflection_pattern_259"
+  ],
+  "012031042513024130210": [
+    "inflection_pattern_147"
+  ],
+  "012031042513024132010": [
+    "inflection_pattern_147"
+  ],
+  "012031042513204103210": [
+    "inflection_pattern_20",
+    "inflection_pattern_21",
+    "inflection_pattern_23",
+    "inflection_pattern_125",
+    "inflection_pattern_126",
+    "inflection_pattern_183",
+    "inflection_pattern_188",
+    "inflection_pattern_239",
+    "inflection_pattern_259"
+  ],
+  "012031042513204310210": [
+    "inflection_pattern_30",
+    "inflection_pattern_34",
+    "inflection_pattern_52",
+    "inflection_pattern_55"
+  ],
+  "012031042513240103210": [
+    "inflection_pattern_20",
+    "inflection_pattern_21",
+    "inflection_pattern_126",
+    "inflection_pattern_188",
+    "inflection_pattern_259"
+  ],
+  "012031042513243010210": [
+    "inflection_pattern_2",
+    "inflection_pattern_126",
+    "inflection_pattern_188",
+    "inflection_pattern_234"
+  ],
+  "012031042513243012010": [
+    "inflection_pattern_73",
+    "inflection_pattern_126",
+    "inflection_pattern_188",
+    "inflection_pattern_234"
+  ],
+  "012031042531024103210": [
+    "inflection_pattern_23",
+    "inflection_pattern_140",
+    "inflection_pattern_142",
+    "inflection_pattern_187",
+    "inflection_pattern_211",
+    "inflection_pattern_239",
+    "inflection_pattern_285"
+  ],
+  "012031042531024130210": [
+    "inflection_pattern_45",
+    "inflection_pattern_46",
+    "inflection_pattern_148",
+    "inflection_pattern_194",
+    "inflection_pattern_211",
+    "inflection_pattern_285"
+  ],
+  "012031042531024132010": [
+    "inflection_pattern_97",
+    "inflection_pattern_98",
+    "inflection_pattern_148",
+    "inflection_pattern_194",
+    "inflection_pattern_211",
+    "inflection_pattern_285"
+  ],
+  "012031042531024312010": [
+    "inflection_pattern_85",
+    "inflection_pattern_86",
+    "inflection_pattern_154",
+    "inflection_pattern_198",
+    "inflection_pattern_211",
+    "inflection_pattern_274",
+    "inflection_pattern_277"
+  ],
+  "012031042531204103210": [
+    "inflection_pattern_23",
+    "inflection_pattern_125",
+    "inflection_pattern_187",
+    "inflection_pattern_211",
+    "inflection_pattern_239",
+    "inflection_pattern_285"
+  ],
+  "012031042531204130210": [
+    "inflection_pattern_45",
+    "inflection_pattern_46",
+    "inflection_pattern_129",
+    "inflection_pattern_130",
+    "inflection_pattern_194",
+    "inflection_pattern_211",
+    "inflection_pattern_285"
+  ],
+  "012031042531204132010": [
+    "inflection_pattern_97",
+    "inflection_pattern_98",
+    "inflection_pattern_129",
+    "inflection_pattern_130",
+    "inflection_pattern_194",
+    "inflection_pattern_211",
+    "inflection_pattern_285"
+  ],
+  "012031042531204310210": [
+    "inflection_pattern_34",
+    "inflection_pattern_55",
+    "inflection_pattern_129",
+    "inflection_pattern_130",
+    "inflection_pattern_132",
+    "inflection_pattern_133",
+    "inflection_pattern_198",
+    "inflection_pattern_211",
+    "inflection_pattern_274",
+    "inflection_pattern_277"
+  ],
+  "012031042531204312010": [
+    "inflection_pattern_85",
+    "inflection_pattern_86",
+    "inflection_pattern_129",
+    "inflection_pattern_130",
+    "inflection_pattern_132",
+    "inflection_pattern_133",
+    "inflection_pattern_198",
+    "inflection_pattern_211",
+    "inflection_pattern_274",
+    "inflection_pattern_277"
+  ],
+  "012031204130251403210": [
+    "inflection_pattern_41",
+    "inflection_pattern_58",
+    "inflection_pattern_117",
+    "inflection_pattern_173",
+    "inflection_pattern_175",
+    "inflection_pattern_266"
+  ],
+  "012031204132051403210": [
+    "inflection_pattern_41",
+    "inflection_pattern_58",
+    "inflection_pattern_117",
+    "inflection_pattern_163",
+    "inflection_pattern_166",
+    "inflection_pattern_266"
+  ],
+  "012031204132501043210": [
+    "inflection_pattern_115"
+  ],
+  "012031204132501403210": [
+    "inflection_pattern_41",
+    "inflection_pattern_42",
+    "inflection_pattern_58",
+    "inflection_pattern_60",
+    "inflection_pattern_115",
+    "inflection_pattern_117",
+    "inflection_pattern_118",
+    "inflection_pattern_163",
+    "inflection_pattern_166",
+    "inflection_pattern_266",
+    "inflection_pattern_267",
+    "inflection_pattern_284"
+  ],
+  "012031204135021043210": [
+    "inflection_pattern_116"
+  ],
+  "012031204135201043210": [
+    "inflection_pattern_116"
+  ],
+  "012031204135201403210": [
+    "inflection_pattern_195"
+  ],
+  "012031204135204103210": [
+    "inflection_pattern_193"
+  ],
+  "012031204135204130210": [
+    "inflection_pattern_196"
+  ],
+  "012031240130251403210": [
+    "inflection_pattern_58",
+    "inflection_pattern_117",
+    "inflection_pattern_175",
+    "inflection_pattern_176",
+    "inflection_pattern_283"
+  ],
+  "012031240132015043210": [
+    "inflection_pattern_164"
+  ],
+  "012031240132051043210": [
+    "inflection_pattern_165"
+  ],
+  "012031240132501043210": [
+    "inflection_pattern_44",
+    "inflection_pattern_115",
+    "inflection_pattern_165",
+    "inflection_pattern_268"
+  ],
+  "012031240135021043210": [
+    "inflection_pattern_57",
+    "inflection_pattern_116",
+    "inflection_pattern_229",
+    "inflection_pattern_269"
+  ],
+  "012031240135021403210": [
+    "inflection_pattern_43"
+  ],
+  "012031240135024103210": [
+    "inflection_pattern_56"
+  ],
+  "012031240135201043210": [
+    "inflection_pattern_57",
+    "inflection_pattern_116",
+    "inflection_pattern_201",
+    "inflection_pattern_269"
+  ],
+  "012031240135201403210": [
+    "inflection_pattern_43",
+    "inflection_pattern_195",
+    "inflection_pattern_202"
+  ],
+  "012031240135204103210": [
+    "inflection_pattern_56",
+    "inflection_pattern_203"
+  ],
+  "012031240135204130210": [
+    "inflection_pattern_196",
+    "inflection_pattern_204"
+  ],
+  "012031402105324103210": [
+    "inflection_pattern_21",
+    "inflection_pattern_24",
+    "inflection_pattern_144",
+    "inflection_pattern_145",
+    "inflection_pattern_181",
+    "inflection_pattern_182",
+    "inflection_pattern_183",
+    "inflection_pattern_186",
+    "inflection_pattern_189",
+    "inflection_pattern_192",
+    "inflection_pattern_208",
+    "inflection_pattern_210",
+    "inflection_pattern_261"
+  ],
+  "012031402105324130210": [
+    "inflection_pattern_208",
+    "inflection_pattern_210"
+  ],
+  "012031402105324132010": [
+    "inflection_pattern_208",
+    "inflection_pattern_210"
+  ],
+  "012031402135204310210": [
+    "inflection_pattern_288"
+  ],
+  "012031402135240103210": [
+    "inflection_pattern_46",
+    "inflection_pattern_129",
+    "inflection_pattern_194",
+    "inflection_pattern_271"
+  ],
+  "012031402135240130210": [
+    "inflection_pattern_45",
+    "inflection_pattern_46",
+    "inflection_pattern_129",
+    "inflection_pattern_130",
+    "inflection_pattern_194",
+    "inflection_pattern_211",
+    "inflection_pattern_285"
+  ],
+  "012031402135240132010": [
+    "inflection_pattern_45",
+    "inflection_pattern_46",
+    "inflection_pattern_129",
+    "inflection_pattern_130",
+    "inflection_pattern_194",
+    "inflection_pattern_211",
+    "inflection_pattern_316"
+  ],
+  "012031402135240310210": [
+    "inflection_pattern_45",
+    "inflection_pattern_46",
+    "inflection_pattern_47",
+    "inflection_pattern_129",
+    "inflection_pattern_130",
+    "inflection_pattern_137",
+    "inflection_pattern_194",
+    "inflection_pattern_211",
+    "inflection_pattern_213",
+    "inflection_pattern_287"
+  ],
+  "012031402135240312010": [
+    "inflection_pattern_45",
+    "inflection_pattern_46",
+    "inflection_pattern_47",
+    "inflection_pattern_129",
+    "inflection_pattern_130",
+    "inflection_pattern_137",
+    "inflection_pattern_194",
+    "inflection_pattern_211",
+    "inflection_pattern_213",
+    "inflection_pattern_310"
+  ],
+  "012031402135243010210": [
+    "inflection_pattern_46",
+    "inflection_pattern_47",
+    "inflection_pattern_128",
+    "inflection_pattern_129",
+    "inflection_pattern_137",
+    "inflection_pattern_194",
+    "inflection_pattern_200",
+    "inflection_pattern_212",
+    "inflection_pattern_213",
+    "inflection_pattern_286"
+  ],
+  "012031402135243012010": [
+    "inflection_pattern_46",
+    "inflection_pattern_47",
+    "inflection_pattern_128",
+    "inflection_pattern_129",
+    "inflection_pattern_137",
+    "inflection_pattern_194",
+    "inflection_pattern_200",
+    "inflection_pattern_212",
+    "inflection_pattern_213",
+    "inflection_pattern_310",
+    "inflection_pattern_317"
+  ],
+  "012031402150324130210": [
+    "inflection_pattern_208"
+  ],
+  "012031402150324132010": [
+    "inflection_pattern_208"
+  ],
+  "012031402153024103210": [
+    "inflection_pattern_21",
+    "inflection_pattern_24",
+    "inflection_pattern_144",
+    "inflection_pattern_145",
+    "inflection_pattern_183",
+    "inflection_pattern_186",
+    "inflection_pattern_189",
+    "inflection_pattern_192",
+    "inflection_pattern_255",
+    "inflection_pattern_261"
+  ],
+  "012031402153204103210": [
+    "inflection_pattern_21",
+    "inflection_pattern_24",
+    "inflection_pattern_126",
+    "inflection_pattern_127",
+    "inflection_pattern_183",
+    "inflection_pattern_186",
+    "inflection_pattern_189",
+    "inflection_pattern_192",
+    "inflection_pattern_255",
+    "inflection_pattern_261"
+  ],
+  "012031402153204310210": [
+    "inflection_pattern_34",
+    "inflection_pattern_52",
+    "inflection_pattern_54"
+  ],
+  "012031402513024103210": [
+    "inflection_pattern_21",
+    "inflection_pattern_144",
+    "inflection_pattern_183",
+    "inflection_pattern_189",
+    "inflection_pattern_255"
+  ],
+  "012031402513204103210": [
+    "inflection_pattern_21",
+    "inflection_pattern_126",
+    "inflection_pattern_183",
+    "inflection_pattern_189",
+    "inflection_pattern_255"
+  ],
+  "012031402513204310210": [
+    "inflection_pattern_34",
+    "inflection_pattern_52"
+  ],
+  "012031402513240103210": [
+    "inflection_pattern_21",
+    "inflection_pattern_126",
+    "inflection_pattern_189",
+    "inflection_pattern_253"
+  ],
+  "012031402513240310210": [
+    "inflection_pattern_29"
+  ],
+  "012031402513243010210": [
+    "inflection_pattern_4",
+    "inflection_pattern_120",
+    "inflection_pattern_126",
+    "inflection_pattern_189",
+    "inflection_pattern_233"
+  ],
+  "012031402513243012010": [
+    "inflection_pattern_69",
+    "inflection_pattern_72",
+    "inflection_pattern_120",
+    "inflection_pattern_126",
+    "inflection_pattern_189",
+    "inflection_pattern_233"
+  ],
+  "012031402531021043210": [
+    "inflection_pattern_160"
+  ],
+  "012031402531021403210": [
+    "inflection_pattern_199"
+  ],
+  "012031402531042103210": [
+    "inflection_pattern_12",
+    "inflection_pattern_14",
+    "inflection_pattern_110",
+    "inflection_pattern_111",
+    "inflection_pattern_112",
+    "inflection_pattern_113",
+    "inflection_pattern_114",
+    "inflection_pattern_180",
+    "inflection_pattern_204",
+    "inflection_pattern_247"
+  ],
+  "012031402531042130210": [
+    "inflection_pattern_196",
+    "inflection_pattern_204"
+  ],
+  "012031402531042132010": [
+    "inflection_pattern_196",
+    "inflection_pattern_204"
+  ],
+  "012031402531201403210": [
+    "inflection_pattern_199"
+  ],
+  "012031402531204310210": [
+    "inflection_pattern_34"
+  ],
+  "012031402531243012010": [
+    "inflection_pattern_69"
+  ],
+  "012031402531402103210": [
+    "inflection_pattern_111",
+    "inflection_pattern_112",
+    "inflection_pattern_113",
+    "inflection_pattern_114"
+  ],
+  "012031402531402130210": [
+    "inflection_pattern_196"
+  ],
+  "012031402531402132010": [
+    "inflection_pattern_196"
+  ],
+  "012031402531420130210": [
+    "inflection_pattern_196"
+  ],
+  "012031402531420132010": [
+    "inflection_pattern_196"
+  ],
+  "012031420105324103210": [
+    "inflection_pattern_21",
+    "inflection_pattern_24",
+    "inflection_pattern_144",
+    "inflection_pattern_145",
+    "inflection_pattern_216",
+    "inflection_pattern_223",
+    "inflection_pattern_228",
+    "inflection_pattern_261"
+  ],
+  "012031420135204310210": [
+    "inflection_pattern_288"
+  ],
+  "012031420135240103210": [
+    "inflection_pattern_46",
+    "inflection_pattern_152",
+    "inflection_pattern_194",
+    "inflection_pattern_271"
+  ],
+  "012031420135240130210": [
+    "inflection_pattern_45",
+    "inflection_pattern_46",
+    "inflection_pattern_148",
+    "inflection_pattern_194",
+    "inflection_pattern_211",
+    "inflection_pattern_285"
+  ],
+  "012031420135240310210": [
+    "inflection_pattern_45",
+    "inflection_pattern_46",
+    "inflection_pattern_47",
+    "inflection_pattern_148",
+    "inflection_pattern_149",
+    "inflection_pattern_194",
+    "inflection_pattern_211",
+    "inflection_pattern_213",
+    "inflection_pattern_287"
+  ],
+  "012031420135243010210": [
+    "inflection_pattern_46",
+    "inflection_pattern_47",
+    "inflection_pattern_149",
+    "inflection_pattern_150",
+    "inflection_pattern_152",
+    "inflection_pattern_194",
+    "inflection_pattern_200",
+    "inflection_pattern_212",
+    "inflection_pattern_213",
+    "inflection_pattern_286"
+  ],
+  "012031420150324103210": [
+    "inflection_pattern_21",
+    "inflection_pattern_22",
+    "inflection_pattern_24",
+    "inflection_pattern_144",
+    "inflection_pattern_145",
+    "inflection_pattern_216",
+    "inflection_pattern_223",
+    "inflection_pattern_224",
+    "inflection_pattern_225",
+    "inflection_pattern_251",
+    "inflection_pattern_255",
+    "inflection_pattern_261"
+  ],
+  "012031420153024103210": [
+    "inflection_pattern_21",
+    "inflection_pattern_24",
+    "inflection_pattern_144",
+    "inflection_pattern_145",
+    "inflection_pattern_216",
+    "inflection_pattern_223",
+    "inflection_pattern_255",
+    "inflection_pattern_261"
+  ],
+  "012031420315240130210": [
+    "inflection_pattern_147"
+  ],
+  "012031420510324103210": [
+    "inflection_pattern_21",
+    "inflection_pattern_22",
+    "inflection_pattern_144",
+    "inflection_pattern_216",
+    "inflection_pattern_224",
+    "inflection_pattern_251",
+    "inflection_pattern_255"
+  ],
+  "012031420513024103210": [
+    "inflection_pattern_21",
+    "inflection_pattern_144",
+    "inflection_pattern_216",
+    "inflection_pattern_255"
+  ],
+  "012031420531021043210": [
+    "inflection_pattern_160"
+  ],
+  "012031420531042103210": [
+    "inflection_pattern_12",
+    "inflection_pattern_14",
+    "inflection_pattern_110",
+    "inflection_pattern_111",
+    "inflection_pattern_112",
+    "inflection_pattern_113",
+    "inflection_pattern_114",
+    "inflection_pattern_222",
+    "inflection_pattern_227",
+    "inflection_pattern_247"
+  ],
+  "012031420531204310210": [
+    "inflection_pattern_34"
+  ],
+  "012031420531243012010": [
+    "inflection_pattern_69"
+  ],
+  "012031420531402103210": [
+    "inflection_pattern_111",
+    "inflection_pattern_112",
+    "inflection_pattern_113",
+    "inflection_pattern_114"
+  ],
+  "012031423015201403210": [
+    "inflection_pattern_197"
+  ],
+  "012031423015204103210": [
+    "inflection_pattern_209"
+  ],
+  "012031423051204130210": [
+    "inflection_pattern_208"
+  ],
+  "012031423051240130210": [
+    "inflection_pattern_59",
+    "inflection_pattern_157",
+    "inflection_pattern_208",
+    "inflection_pattern_289"
+  ],
+  "012031423501204130210": [
+    "inflection_pattern_208",
+    "inflection_pattern_210"
+  ],
+  "012031423501240130210": [
+    "inflection_pattern_59",
+    "inflection_pattern_157",
+    "inflection_pattern_158",
+    "inflection_pattern_208",
+    "inflection_pattern_210",
+    "inflection_pattern_289",
+    "inflection_pattern_290"
+  ],
+  "012031425013024103210": [
+    "inflection_pattern_21",
+    "inflection_pattern_144",
+    "inflection_pattern_216",
+    "inflection_pattern_228",
+    "inflection_pattern_254"
+  ],
+  "012031425031021043210": [
+    "inflection_pattern_160"
+  ],
+  "012031425031042103210": [
+    "inflection_pattern_12",
+    "inflection_pattern_111",
+    "inflection_pattern_227",
+    "inflection_pattern_243"
+  ],
+  "012031425031402103210": [
+    "inflection_pattern_111"
+  ],
+  "012031425301240132010": [
+    "inflection_pattern_89"
+  ],
+  "012034102312010543210": [
+    "inflection_pattern_131",
+    "inflection_pattern_162",
+    "inflection_pattern_272"
+  ],
+  "012034120310210543210": [
+    "inflection_pattern_151",
+    "inflection_pattern_174",
+    "inflection_pattern_272"
+  ],
+  "012034120312010543210": [
+    "inflection_pattern_151",
+    "inflection_pattern_162",
+    "inflection_pattern_272"
+  ],
+  "012301024130251403210": [
+    "inflection_pattern_58",
+    "inflection_pattern_106",
+    "inflection_pattern_175",
+    "inflection_pattern_252"
+  ],
+  "012301024132051403210": [
+    "inflection_pattern_58",
+    "inflection_pattern_106",
+    "inflection_pattern_166",
+    "inflection_pattern_252"
+  ],
+  "012301024132501403210": [
+    "inflection_pattern_58",
+    "inflection_pattern_60",
+    "inflection_pattern_106",
+    "inflection_pattern_107",
+    "inflection_pattern_166",
+    "inflection_pattern_252",
+    "inflection_pattern_284"
+  ],
+  "012301042105324103210": [
+    "inflection_pattern_16",
+    "inflection_pattern_138",
+    "inflection_pattern_181",
+    "inflection_pattern_182",
+    "inflection_pattern_256",
+    "inflection_pattern_257"
+  ],
+  "012301042135204310210": [
+    "inflection_pattern_288"
+  ],
+  "012301042150324103210": [
+    "inflection_pattern_16",
+    "inflection_pattern_138",
+    "inflection_pattern_182",
+    "inflection_pattern_257"
+  ],
+  "012301042153204310210": [
+    "inflection_pattern_54",
+    "inflection_pattern_55"
+  ],
+  "012301042315204130210": [
+    "inflection_pattern_21",
+    "inflection_pattern_126",
+    "inflection_pattern_189",
+    "inflection_pattern_253"
+  ],
+  "012301042315204132010": [
+    "inflection_pattern_21",
+    "inflection_pattern_126",
+    "inflection_pattern_189",
+    "inflection_pattern_305"
+  ],
+  "012301042315240130210": [
+    "inflection_pattern_20",
+    "inflection_pattern_21",
+    "inflection_pattern_126",
+    "inflection_pattern_188",
+    "inflection_pattern_259"
+  ],
+  "012301042315240132010": [
+    "inflection_pattern_20",
+    "inflection_pattern_21",
+    "inflection_pattern_126",
+    "inflection_pattern_188",
+    "inflection_pattern_306"
+  ],
+  "012301042351240130210": [
+    "inflection_pattern_20",
+    "inflection_pattern_21",
+    "inflection_pattern_24",
+    "inflection_pattern_126",
+    "inflection_pattern_127",
+    "inflection_pattern_186",
+    "inflection_pattern_188",
+    "inflection_pattern_192",
+    "inflection_pattern_259",
+    "inflection_pattern_260",
+    "inflection_pattern_261"
+  ],
+  "012301042351240132010": [
+    "inflection_pattern_20",
+    "inflection_pattern_21",
+    "inflection_pattern_24",
+    "inflection_pattern_126",
+    "inflection_pattern_127",
+    "inflection_pattern_186",
+    "inflection_pattern_188",
+    "inflection_pattern_192",
+    "inflection_pattern_306",
+    "inflection_pattern_308"
+  ],
+  "012301042513024103210": [
+    "inflection_pattern_139"
+  ],
+  "012301042513204310210": [
+    "inflection_pattern_55"
+  ],
+  "012301042531021043210": [
+    "inflection_pattern_159"
+  ],
+  "012301042531024103210": [
+    "inflection_pattern_140"
+  ],
+  "012301042531024130210": [
+    "inflection_pattern_46",
+    "inflection_pattern_152",
+    "inflection_pattern_194",
+    "inflection_pattern_271"
+  ],
+  "012301042531024132010": [
+    "inflection_pattern_97",
+    "inflection_pattern_152",
+    "inflection_pattern_194",
+    "inflection_pattern_271"
+  ],
+  "012301042531024312010": [
+    "inflection_pattern_86",
+    "inflection_pattern_152",
+    "inflection_pattern_153",
+    "inflection_pattern_198",
+    "inflection_pattern_274"
+  ],
+  "012301042531204130210": [
+    "inflection_pattern_46",
+    "inflection_pattern_129",
+    "inflection_pattern_194",
+    "inflection_pattern_271"
+  ],
+  "012301042531204132010": [
+    "inflection_pattern_97",
+    "inflection_pattern_129",
+    "inflection_pattern_194",
+    "inflection_pattern_271"
+  ],
+  "012301042531204310210": [
+    "inflection_pattern_55",
+    "inflection_pattern_129",
+    "inflection_pattern_132",
+    "inflection_pattern_198",
+    "inflection_pattern_274"
+  ],
+  "012301042531204312010": [
+    "inflection_pattern_86",
+    "inflection_pattern_129",
+    "inflection_pattern_132",
+    "inflection_pattern_198",
+    "inflection_pattern_274"
+  ],
+  "012301204103251403210": [
+    "inflection_pattern_108"
+  ],
+  "012301204130210543210": [
+    "inflection_pattern_111"
+  ],
+  "012301204130215043210": [
+    "inflection_pattern_111"
+  ],
+  "012301204130251043210": [
+    "inflection_pattern_111"
+  ],
+  "012301204130251403210": [
+    "inflection_pattern_58",
+    "inflection_pattern_108",
+    "inflection_pattern_111",
+    "inflection_pattern_117",
+    "inflection_pattern_175",
+    "inflection_pattern_252"
+  ],
+  "012301204130521043210": [
+    "inflection_pattern_111"
+  ],
+  "012301204130521403210": [
+    "inflection_pattern_111"
+  ],
+  "012301204130524103210": [
+    "inflection_pattern_111"
+  ],
+  "012301204130524130210": [
+    "inflection_pattern_111"
+  ],
+  "012301204130524132010": [
+    "inflection_pattern_111"
+  ],
+  "012301204132010543210": [
+    "inflection_pattern_111"
+  ],
+  "012301204132015043210": [
+    "inflection_pattern_111"
+  ],
+  "012301204132051043210": [
+    "inflection_pattern_111"
+  ],
+  "012301204132051403210": [
+    "inflection_pattern_58",
+    "inflection_pattern_108",
+    "inflection_pattern_111",
+    "inflection_pattern_117",
+    "inflection_pattern_166",
+    "inflection_pattern_252"
+  ],
+  "012301204132501043210": [
+    "inflection_pattern_111",
+    "inflection_pattern_115"
+  ],
+  "012301204132501403210": [
+    "inflection_pattern_58",
+    "inflection_pattern_60",
+    "inflection_pattern_108",
+    "inflection_pattern_111",
+    "inflection_pattern_115",
+    "inflection_pattern_117",
+    "inflection_pattern_118",
+    "inflection_pattern_166",
+    "inflection_pattern_252",
+    "inflection_pattern_284"
+  ],
+  "012301204135021043210": [
+    "inflection_pattern_111",
+    "inflection_pattern_112",
+    "inflection_pattern_116"
+  ],
+  "012301204135021403210": [
+    "inflection_pattern_111",
+    "inflection_pattern_112"
+  ],
+  "012301204135024103210": [
+    "inflection_pattern_111",
+    "inflection_pattern_112",
+    "inflection_pattern_113"
+  ],
+  "012301204135024130210": [
+    "inflection_pattern_111",
+    "inflection_pattern_112",
+    "inflection_pattern_113",
+    "inflection_pattern_114"
+  ],
+  "012301204135024132010": [
+    "inflection_pattern_111",
+    "inflection_pattern_112",
+    "inflection_pattern_113",
+    "inflection_pattern_114"
+  ],
+  "012301204135201043210": [
+    "inflection_pattern_111",
+    "inflection_pattern_112",
+    "inflection_pattern_116"
+  ],
+  "012301204135201403210": [
+    "inflection_pattern_111",
+    "inflection_pattern_112"
+  ],
+  "012301204135204103210": [
+    "inflection_pattern_111",
+    "inflection_pattern_112",
+    "inflection_pattern_113"
+  ],
+  "012301204135204130210": [
+    "inflection_pattern_111",
+    "inflection_pattern_112",
+    "inflection_pattern_113",
+    "inflection_pattern_114"
+  ],
+  "012301240103251403210": [
+    "inflection_pattern_15",
+    "inflection_pattern_109",
+    "inflection_pattern_170",
+    "inflection_pattern_248"
+  ],
+  "012301240130210543210": [
+    "inflection_pattern_111"
+  ],
+  "012301240130215043210": [
+    "inflection_pattern_8",
+    "inflection_pattern_111",
+    "inflection_pattern_169",
+    "inflection_pattern_258"
+  ],
+  "012301240130251043210": [
+    "inflection_pattern_11",
+    "inflection_pattern_111",
+    "inflection_pattern_171",
+    "inflection_pattern_240"
+  ],
+  "012301240130251403210": [
+    "inflection_pattern_9",
+    "inflection_pattern_11",
+    "inflection_pattern_15",
+    "inflection_pattern_58",
+    "inflection_pattern_109",
+    "inflection_pattern_111",
+    "inflection_pattern_117",
+    "inflection_pattern_170",
+    "inflection_pattern_171",
+    "inflection_pattern_175",
+    "inflection_pattern_176",
+    "inflection_pattern_248",
+    "inflection_pattern_252",
+    "inflection_pattern_283"
+  ],
+  "012301240130521043210": [
+    "inflection_pattern_18",
+    "inflection_pattern_111",
+    "inflection_pattern_217",
+    "inflection_pattern_249"
+  ],
+  "012301240130521403210": [
+    "inflection_pattern_9",
+    "inflection_pattern_111",
+    "inflection_pattern_218",
+    "inflection_pattern_241"
+  ],
+  "012301240130524103210": [
+    "inflection_pattern_10",
+    "inflection_pattern_111",
+    "inflection_pattern_226",
+    "inflection_pattern_242"
+  ],
+  "012301240130524130210": [
+    "inflection_pattern_12",
+    "inflection_pattern_111",
+    "inflection_pattern_227",
+    "inflection_pattern_243"
+  ],
+  "012301240130524132010": [
+    "inflection_pattern_12",
+    "inflection_pattern_111",
+    "inflection_pattern_227",
+    "inflection_pattern_297"
+  ],
+  "012301240132010543210": [
+    "inflection_pattern_111"
+  ],
+  "012301240132015043210": [
+    "inflection_pattern_8",
+    "inflection_pattern_111",
+    "inflection_pattern_161",
+    "inflection_pattern_164",
+    "inflection_pattern_258"
+  ],
+  "012301240132051043210": [
+    "inflection_pattern_11",
+    "inflection_pattern_111",
+    "inflection_pattern_165",
+    "inflection_pattern_240"
+  ],
+  "012301240132501043210": [
+    "inflection_pattern_7",
+    "inflection_pattern_11",
+    "inflection_pattern_111",
+    "inflection_pattern_115",
+    "inflection_pattern_165",
+    "inflection_pattern_244"
+  ],
+  "012301240135021043210": [
+    "inflection_pattern_19",
+    "inflection_pattern_57",
+    "inflection_pattern_111",
+    "inflection_pattern_112",
+    "inflection_pattern_116",
+    "inflection_pattern_219",
+    "inflection_pattern_229",
+    "inflection_pattern_250"
+  ],
+  "012301240135021403210": [
+    "inflection_pattern_13",
+    "inflection_pattern_110",
+    "inflection_pattern_111",
+    "inflection_pattern_112",
+    "inflection_pattern_218",
+    "inflection_pattern_220",
+    "inflection_pattern_245"
+  ],
+  "012301240135024103210": [
+    "inflection_pattern_56",
+    "inflection_pattern_110",
+    "inflection_pattern_111",
+    "inflection_pattern_112",
+    "inflection_pattern_113",
+    "inflection_pattern_221",
+    "inflection_pattern_246"
+  ],
+  "012301240135024130210": [
+    "inflection_pattern_12",
+    "inflection_pattern_14",
+    "inflection_pattern_110",
+    "inflection_pattern_111",
+    "inflection_pattern_112",
+    "inflection_pattern_113",
+    "inflection_pattern_114",
+    "inflection_pattern_222",
+    "inflection_pattern_227",
+    "inflection_pattern_247"
+  ],
+  "012301240135024132010": [
+    "inflection_pattern_12",
+    "inflection_pattern_14",
+    "inflection_pattern_110",
+    "inflection_pattern_111",
+    "inflection_pattern_112",
+    "inflection_pattern_113",
+    "inflection_pattern_114",
+    "inflection_pattern_222",
+    "inflection_pattern_227",
+    "inflection_pattern_297",
+    "inflection_pattern_298"
+  ],
+  "012301240135201043210": [
+    "inflection_pattern_19",
+    "inflection_pattern_57",
+    "inflection_pattern_111",
+    "inflection_pattern_112",
+    "inflection_pattern_116",
+    "inflection_pattern_178",
+    "inflection_pattern_201",
+    "inflection_pattern_250"
+  ],
+  "012301240135201403210": [
+    "inflection_pattern_13",
+    "inflection_pattern_110",
+    "inflection_pattern_111",
+    "inflection_pattern_112",
+    "inflection_pattern_179",
+    "inflection_pattern_202",
+    "inflection_pattern_245"
+  ],
+  "012301240135204103210": [
+    "inflection_pattern_56",
+    "inflection_pattern_110",
+    "inflection_pattern_111",
+    "inflection_pattern_112",
+    "inflection_pattern_113",
+    "inflection_pattern_203",
+    "inflection_pattern_246"
+  ],
+  "012301240135204130210": [
+    "inflection_pattern_12",
+    "inflection_pattern_14",
+    "inflection_pattern_110",
+    "inflection_pattern_111",
+    "inflection_pattern_112",
+    "inflection_pattern_113",
+    "inflection_pattern_114",
+    "inflection_pattern_180",
+    "inflection_pattern_204",
+    "inflection_pattern_247"
+  ],
+  "012301402105324103210": [
+    "inflection_pattern_181",
+    "inflection_pattern_182"
+  ],
+  "012301402135204310210": [
+    "inflection_pattern_184",
+    "inflection_pattern_288"
+  ],
+  "012301402135204312010": [
+    "inflection_pattern_184"
+  ],
+  "012301402135240130210": [
+    "inflection_pattern_23",
+    "inflection_pattern_125",
+    "inflection_pattern_187",
+    "inflection_pattern_211",
+    "inflection_pattern_239",
+    "inflection_pattern_285"
+  ],
+  "012301402135240132010": [
+    "inflection_pattern_23",
+    "inflection_pattern_125",
+    "inflection_pattern_187",
+    "inflection_pattern_211",
+    "inflection_pattern_303",
+    "inflection_pattern_316"
+  ],
+  "012301402135240310210": [
+    "inflection_pattern_17",
+    "inflection_pattern_23",
+    "inflection_pattern_123",
+    "inflection_pattern_125",
+    "inflection_pattern_137",
+    "inflection_pattern_184",
+    "inflection_pattern_187",
+    "inflection_pattern_211",
+    "inflection_pattern_213",
+    "inflection_pattern_287"
+  ],
+  "012301402135240312010": [
+    "inflection_pattern_17",
+    "inflection_pattern_23",
+    "inflection_pattern_123",
+    "inflection_pattern_125",
+    "inflection_pattern_137",
+    "inflection_pattern_184",
+    "inflection_pattern_187",
+    "inflection_pattern_211",
+    "inflection_pattern_213",
+    "inflection_pattern_304"
+  ],
+  "012301402135243010210": [
+    "inflection_pattern_17",
+    "inflection_pattern_123",
+    "inflection_pattern_124",
+    "inflection_pattern_137",
+    "inflection_pattern_184",
+    "inflection_pattern_200",
+    "inflection_pattern_212",
+    "inflection_pattern_213",
+    "inflection_pattern_286"
+  ],
+  "012301402135243012010": [
+    "inflection_pattern_17",
+    "inflection_pattern_123",
+    "inflection_pattern_124",
+    "inflection_pattern_137",
+    "inflection_pattern_184",
+    "inflection_pattern_200",
+    "inflection_pattern_212",
+    "inflection_pattern_213",
+    "inflection_pattern_304",
+    "inflection_pattern_317"
+  ],
+  "012301402150324103210": [
+    "inflection_pattern_182"
+  ],
+  "012301402153204310210": [
+    "inflection_pattern_31",
+    "inflection_pattern_33",
+    "inflection_pattern_54"
+  ],
+  "012301402315204130210": [
+    "inflection_pattern_21",
+    "inflection_pattern_126",
+    "inflection_pattern_183",
+    "inflection_pattern_189",
+    "inflection_pattern_255"
+  ],
+  "012301402315204132010": [
+    "inflection_pattern_21",
+    "inflection_pattern_126",
+    "inflection_pattern_183",
+    "inflection_pattern_189",
+    "inflection_pattern_300",
+    "inflection_pattern_305"
+  ],
+  "012301402315240130210": [
+    "inflection_pattern_20",
+    "inflection_pattern_21",
+    "inflection_pattern_23",
+    "inflection_pattern_125",
+    "inflection_pattern_126",
+    "inflection_pattern_183",
+    "inflection_pattern_188",
+    "inflection_pattern_239",
+    "inflection_pattern_259"
+  ],
+  "012301402315240132010": [
+    "inflection_pattern_20",
+    "inflection_pattern_21",
+    "inflection_pattern_23",
+    "inflection_pattern_125",
+    "inflection_pattern_126",
+    "inflection_pattern_183",
+    "inflection_pattern_188",
+    "inflection_pattern_300",
+    "inflection_pattern_303",
+    "inflection_pattern_306"
+  ],
+  "012301402351204130210": [
+    "inflection_pattern_21",
+    "inflection_pattern_24",
+    "inflection_pattern_126",
+    "inflection_pattern_127",
+    "inflection_pattern_183",
+    "inflection_pattern_186",
+    "inflection_pattern_189",
+    "inflection_pattern_192",
+    "inflection_pattern_255",
+    "inflection_pattern_261"
+  ],
+  "012301402351204132010": [
+    "inflection_pattern_21",
+    "inflection_pattern_24",
+    "inflection_pattern_126",
+    "inflection_pattern_127",
+    "inflection_pattern_183",
+    "inflection_pattern_186",
+    "inflection_pattern_189",
+    "inflection_pattern_192",
+    "inflection_pattern_300",
+    "inflection_pattern_302",
+    "inflection_pattern_305"
+  ],
+  "012301402351240130210": [
+    "inflection_pattern_20",
+    "inflection_pattern_21",
+    "inflection_pattern_23",
+    "inflection_pattern_24",
+    "inflection_pattern_125",
+    "inflection_pattern_126",
+    "inflection_pattern_127",
+    "inflection_pattern_183",
+    "inflection_pattern_186",
+    "inflection_pattern_188",
+    "inflection_pattern_192",
+    "inflection_pattern_239",
+    "inflection_pattern_259",
+    "inflection_pattern_260",
+    "inflection_pattern_261"
+  ],
+  "012301402351240132010": [
+    "inflection_pattern_20",
+    "inflection_pattern_21",
+    "inflection_pattern_23",
+    "inflection_pattern_24",
+    "inflection_pattern_125",
+    "inflection_pattern_126",
+    "inflection_pattern_127",
+    "inflection_pattern_183",
+    "inflection_pattern_186",
+    "inflection_pattern_188",
+    "inflection_pattern_192",
+    "inflection_pattern_300",
+    "inflection_pattern_302",
+    "inflection_pattern_303",
+    "inflection_pattern_306",
+    "inflection_pattern_308"
+  ],
+  "012301402510324103210": [
+    "inflection_pattern_209"
+  ],
+  "012301402510324130210": [
+    "inflection_pattern_209"
+  ],
+  "012301402510324132010": [
+    "inflection_pattern_209"
+  ],
+  "012301402513204310210": [
+    "inflection_pattern_31",
+    "inflection_pattern_33"
+  ],
+  "012301402513243010210": [
+    "inflection_pattern_3",
+    "inflection_pattern_120",
+    "inflection_pattern_177",
+    "inflection_pattern_235"
+  ],
+  "012301402513243012010": [
+    "inflection_pattern_70",
+    "inflection_pattern_74",
+    "inflection_pattern_120",
+    "inflection_pattern_177",
+    "inflection_pattern_235"
+  ],
+  "012301402531042103210": [
+    "inflection_pattern_56",
+    "inflection_pattern_110",
+    "inflection_pattern_111",
+    "inflection_pattern_112",
+    "inflection_pattern_113",
+    "inflection_pattern_203",
+    "inflection_pattern_246"
+  ],
+  "012301402531042130210": [
+    "inflection_pattern_56",
+    "inflection_pattern_203"
+  ],
+  "012301402531042132010": [
+    "inflection_pattern_203"
+  ],
+  "012301402531204310210": [
+    "inflection_pattern_33"
+  ],
+  "012301402531243012010": [
+    "inflection_pattern_70"
+  ],
+  "012301402531402103210": [
+    "inflection_pattern_111",
+    "inflection_pattern_112",
+    "inflection_pattern_113"
+  ],
+  "012301402531402130210": [
+    "inflection_pattern_193"
+  ],
+  "012301402531402132010": [
+    "inflection_pattern_193"
+  ],
+  "012301402531420130210": [
+    "inflection_pattern_193"
+  ],
+  "012301402531420132010": [
+    "inflection_pattern_193"
+  ],
+  "012301420135204310210": [
+    "inflection_pattern_184",
+    "inflection_pattern_288"
+  ],
+  "012301420135240103210": [
+    "inflection_pattern_140"
+  ],
+  "012301420135240130210": [
+    "inflection_pattern_23",
+    "inflection_pattern_140",
+    "inflection_pattern_142",
+    "inflection_pattern_187",
+    "inflection_pattern_211",
+    "inflection_pattern_239",
+    "inflection_pattern_285"
+  ],
+  "012301420135240310210": [
+    "inflection_pattern_17",
+    "inflection_pattern_23",
+    "inflection_pattern_140",
+    "inflection_pattern_142",
+    "inflection_pattern_143",
+    "inflection_pattern_184",
+    "inflection_pattern_187",
+    "inflection_pattern_211",
+    "inflection_pattern_213",
+    "inflection_pattern_287"
+  ],
+  "012301420135243010210": [
+    "inflection_pattern_17",
+    "inflection_pattern_140",
+    "inflection_pattern_141",
+    "inflection_pattern_143",
+    "inflection_pattern_184",
+    "inflection_pattern_200",
+    "inflection_pattern_212",
+    "inflection_pattern_213",
+    "inflection_pattern_286"
+  ],
+  "012301420310524130210": [
+    "inflection_pattern_21",
+    "inflection_pattern_144",
+    "inflection_pattern_216",
+    "inflection_pattern_228",
+    "inflection_pattern_254"
+  ],
+  "012301420310524132010": [
+    "inflection_pattern_21",
+    "inflection_pattern_144",
+    "inflection_pattern_216",
+    "inflection_pattern_228",
+    "inflection_pattern_299"
+  ],
+  "012301420315024130210": [
+    "inflection_pattern_21",
+    "inflection_pattern_144",
+    "inflection_pattern_216",
+    "inflection_pattern_255"
+  ],
+  "012301420315024132010": [
+    "inflection_pattern_21",
+    "inflection_pattern_144",
+    "inflection_pattern_216",
+    "inflection_pattern_300",
+    "inflection_pattern_305"
+  ],
+  "012301420315204130210": [
+    "inflection_pattern_21",
+    "inflection_pattern_144",
+    "inflection_pattern_183",
+    "inflection_pattern_189",
+    "inflection_pattern_255"
+  ],
+  "012301420315240103210": [
+    "inflection_pattern_139"
+  ],
+  "012301420315240130210": [
+    "inflection_pattern_20",
+    "inflection_pattern_21",
+    "inflection_pattern_23",
+    "inflection_pattern_139",
+    "inflection_pattern_142",
+    "inflection_pattern_144",
+    "inflection_pattern_183",
+    "inflection_pattern_188",
+    "inflection_pattern_239",
+    "inflection_pattern_259"
+  ],
+  "012301420351024130210": [
+    "inflection_pattern_21",
+    "inflection_pattern_24",
+    "inflection_pattern_144",
+    "inflection_pattern_145",
+    "inflection_pattern_216",
+    "inflection_pattern_223",
+    "inflection_pattern_255",
+    "inflection_pattern_261"
+  ],
+  "012301420351024132010": [
+    "inflection_pattern_21",
+    "inflection_pattern_24",
+    "inflection_pattern_144",
+    "inflection_pattern_145",
+    "inflection_pattern_216",
+    "inflection_pattern_223",
+    "inflection_pattern_300",
+    "inflection_pattern_302",
+    "inflection_pattern_305"
+  ],
+  "012301420351204130210": [
+    "inflection_pattern_21",
+    "inflection_pattern_24",
+    "inflection_pattern_144",
+    "inflection_pattern_145",
+    "inflection_pattern_183",
+    "inflection_pattern_186",
+    "inflection_pattern_189",
+    "inflection_pattern_192",
+    "inflection_pattern_255",
+    "inflection_pattern_261"
+  ],
+  "012301420351240130210": [
+    "inflection_pattern_20",
+    "inflection_pattern_21",
+    "inflection_pattern_23",
+    "inflection_pattern_24",
+    "inflection_pattern_142",
+    "inflection_pattern_144",
+    "inflection_pattern_145",
+    "inflection_pattern_183",
+    "inflection_pattern_186",
+    "inflection_pattern_188",
+    "inflection_pattern_192",
+    "inflection_pattern_239",
+    "inflection_pattern_259",
+    "inflection_pattern_260",
+    "inflection_pattern_261"
+  ],
+  "012301420531042103210": [
+    "inflection_pattern_56",
+    "inflection_pattern_110",
+    "inflection_pattern_111",
+    "inflection_pattern_112",
+    "inflection_pattern_113",
+    "inflection_pattern_221",
+    "inflection_pattern_246"
+  ],
+  "012301420531042130210": [
+    "inflection_pattern_56"
+  ],
+  "012301420531204310210": [
+    "inflection_pattern_33"
+  ],
+  "012301420531243012010": [
+    "inflection_pattern_70"
+  ],
+  "012301420531402103210": [
+    "inflection_pattern_111",
+    "inflection_pattern_112",
+    "inflection_pattern_113"
+  ],
+  "012301423015024130210": [
+    "inflection_pattern_21",
+    "inflection_pattern_22",
+    "inflection_pattern_144",
+    "inflection_pattern_216",
+    "inflection_pattern_224",
+    "inflection_pattern_251",
+    "inflection_pattern_255"
+  ],
+  "012301423015024132010": [
+    "inflection_pattern_21",
+    "inflection_pattern_22",
+    "inflection_pattern_144",
+    "inflection_pattern_216",
+    "inflection_pattern_224",
+    "inflection_pattern_300",
+    "inflection_pattern_301",
+    "inflection_pattern_305"
+  ],
+  "012301423015201403210": [
+    "inflection_pattern_185"
+  ],
+  "012301423015204103210": [
+    "inflection_pattern_209"
+  ],
+  "012301423051024130210": [
+    "inflection_pattern_21",
+    "inflection_pattern_22",
+    "inflection_pattern_24",
+    "inflection_pattern_144",
+    "inflection_pattern_145",
+    "inflection_pattern_216",
+    "inflection_pattern_223",
+    "inflection_pattern_224",
+    "inflection_pattern_225",
+    "inflection_pattern_251",
+    "inflection_pattern_255",
+    "inflection_pattern_261"
+  ],
+  "012301423051024132010": [
+    "inflection_pattern_21",
+    "inflection_pattern_22",
+    "inflection_pattern_24",
+    "inflection_pattern_144",
+    "inflection_pattern_145",
+    "inflection_pattern_216",
+    "inflection_pattern_223",
+    "inflection_pattern_224",
+    "inflection_pattern_225",
+    "inflection_pattern_300",
+    "inflection_pattern_301",
+    "inflection_pattern_302",
+    "inflection_pattern_305",
+    "inflection_pattern_307"
+  ],
+  "012301423051204103210": [
+    "inflection_pattern_182"
+  ],
+  "012301423051240103210": [
+    "inflection_pattern_16",
+    "inflection_pattern_138",
+    "inflection_pattern_182",
+    "inflection_pattern_257"
+  ],
+  "012301423501024130210": [
+    "inflection_pattern_21",
+    "inflection_pattern_24",
+    "inflection_pattern_144",
+    "inflection_pattern_145",
+    "inflection_pattern_216",
+    "inflection_pattern_223",
+    "inflection_pattern_228",
+    "inflection_pattern_261"
+  ],
+  "012301423501024132010": [
+    "inflection_pattern_21",
+    "inflection_pattern_24",
+    "inflection_pattern_144",
+    "inflection_pattern_145",
+    "inflection_pattern_216",
+    "inflection_pattern_223",
+    "inflection_pattern_228",
+    "inflection_pattern_307"
+  ],
+  "012301423501204103210": [
+    "inflection_pattern_181",
+    "inflection_pattern_182"
+  ],
+  "012301423501204130210": [
+    "inflection_pattern_21",
+    "inflection_pattern_24",
+    "inflection_pattern_144",
+    "inflection_pattern_145",
+    "inflection_pattern_181",
+    "inflection_pattern_182",
+    "inflection_pattern_183",
+    "inflection_pattern_186",
+    "inflection_pattern_189",
+    "inflection_pattern_192",
+    "inflection_pattern_208",
+    "inflection_pattern_210",
+    "inflection_pattern_261"
+  ],
+  "012301423501240103210": [
+    "inflection_pattern_16",
+    "inflection_pattern_138",
+    "inflection_pattern_181",
+    "inflection_pattern_182",
+    "inflection_pattern_256",
+    "inflection_pattern_257"
+  ],
+  "012301423501240130210": [
+    "inflection_pattern_16",
+    "inflection_pattern_20",
+    "inflection_pattern_21",
+    "inflection_pattern_23",
+    "inflection_pattern_24",
+    "inflection_pattern_59",
+    "inflection_pattern_138",
+    "inflection_pattern_142",
+    "inflection_pattern_144",
+    "inflection_pattern_145",
+    "inflection_pattern_157",
+    "inflection_pattern_158",
+    "inflection_pattern_181",
+    "inflection_pattern_182",
+    "inflection_pattern_183",
+    "inflection_pattern_186",
+    "inflection_pattern_188",
+    "inflection_pattern_192",
+    "inflection_pattern_208",
+    "inflection_pattern_210",
+    "inflection_pattern_256",
+    "inflection_pattern_259",
+    "inflection_pattern_260",
+    "inflection_pattern_261",
+    "inflection_pattern_289",
+    "inflection_pattern_290"
+  ],
+  "012301425031042103210": [
+    "inflection_pattern_10",
+    "inflection_pattern_111",
+    "inflection_pattern_226",
+    "inflection_pattern_242"
+  ],
+  "012301425031402103210": [
+    "inflection_pattern_111"
+  ],
+  "012301425301240132010": [
+    "inflection_pattern_88"
+  ],
+  "012304102105321403210": [
+    "inflection_pattern_205",
+    "inflection_pattern_207"
+  ],
+  "012304102130524132010": [
+    "inflection_pattern_318"
+  ],
+  "012304102135024132010": [
+    "inflection_pattern_318"
+  ],
+  "012304102135204130210": [
+    "inflection_pattern_199"
+  ],
+  "012304102135204132010": [
+    "inflection_pattern_199",
+    "inflection_pattern_318"
+  ],
+  "012304102150321403210": [
+    "inflection_pattern_205"
+  ],
+  "012304102510321403210": [
+    "inflection_pattern_206"
+  ],
+  "012304102510324103210": [
+    "inflection_pattern_185"
+  ],
+  "012304102510324130210": [
+    "inflection_pattern_197"
+  ],
+  "012304102510324132010": [
+    "inflection_pattern_197"
+  ],
+  "012304102513204310210": [
+    "inflection_pattern_51",
+    "inflection_pattern_53"
+  ],
+  "012304102531042103210": [
+    "inflection_pattern_13",
+    "inflection_pattern_110",
+    "inflection_pattern_111",
+    "inflection_pattern_112",
+    "inflection_pattern_179",
+    "inflection_pattern_202",
+    "inflection_pattern_245"
+  ],
+  "012304102531042130210": [
+    "inflection_pattern_43",
+    "inflection_pattern_195",
+    "inflection_pattern_202"
+  ],
+  "012304102531042132010": [
+    "inflection_pattern_195",
+    "inflection_pattern_202"
+  ],
+  "012304102531243012010": [
+    "inflection_pattern_68"
+  ],
+  "012304102531402103210": [
+    "inflection_pattern_111",
+    "inflection_pattern_112"
+  ],
+  "012304102531402130210": [
+    "inflection_pattern_195"
+  ],
+  "012304102531402132010": [
+    "inflection_pattern_195"
+  ],
+  "012304102531420130210": [
+    "inflection_pattern_195"
+  ],
+  "012304102531420132010": [
+    "inflection_pattern_195"
+  ],
+  "012304105231402103210": [
+    "inflection_pattern_58",
+    "inflection_pattern_60",
+    "inflection_pattern_108",
+    "inflection_pattern_111",
+    "inflection_pattern_115",
+    "inflection_pattern_117",
+    "inflection_pattern_118",
+    "inflection_pattern_166",
+    "inflection_pattern_252",
+    "inflection_pattern_284"
+  ],
+  "012304105231402130210": [
+    "inflection_pattern_41",
+    "inflection_pattern_42",
+    "inflection_pattern_58",
+    "inflection_pattern_60",
+    "inflection_pattern_115",
+    "inflection_pattern_117",
+    "inflection_pattern_118",
+    "inflection_pattern_163",
+    "inflection_pattern_166",
+    "inflection_pattern_266",
+    "inflection_pattern_267",
+    "inflection_pattern_284"
+  ],
+  "012304105231402132010": [
+    "inflection_pattern_81",
+    "inflection_pattern_82",
+    "inflection_pattern_115",
+    "inflection_pattern_117",
+    "inflection_pattern_118",
+    "inflection_pattern_163",
+    "inflection_pattern_166",
+    "inflection_pattern_266",
+    "inflection_pattern_267",
+    "inflection_pattern_284"
+  ],
+  "012304105231402312010": [
+    "inflection_pattern_79",
+    "inflection_pattern_117",
+    "inflection_pattern_118",
+    "inflection_pattern_163",
+    "inflection_pattern_166",
+    "inflection_pattern_263",
+    "inflection_pattern_273"
+  ],
+  "012304105231420103210": [
+    "inflection_pattern_58",
+    "inflection_pattern_60",
+    "inflection_pattern_106",
+    "inflection_pattern_107",
+    "inflection_pattern_166",
+    "inflection_pattern_252",
+    "inflection_pattern_284"
+  ],
+  "012304105231420130210": [
+    "inflection_pattern_41",
+    "inflection_pattern_42",
+    "inflection_pattern_58",
+    "inflection_pattern_60",
+    "inflection_pattern_104",
+    "inflection_pattern_105",
+    "inflection_pattern_106",
+    "inflection_pattern_107",
+    "inflection_pattern_163",
+    "inflection_pattern_166",
+    "inflection_pattern_266",
+    "inflection_pattern_267",
+    "inflection_pattern_284"
+  ],
+  "012304105231420132010": [
+    "inflection_pattern_81",
+    "inflection_pattern_82",
+    "inflection_pattern_104",
+    "inflection_pattern_105",
+    "inflection_pattern_106",
+    "inflection_pattern_107",
+    "inflection_pattern_163",
+    "inflection_pattern_166",
+    "inflection_pattern_266",
+    "inflection_pattern_267",
+    "inflection_pattern_284"
+  ],
+  "012304105231420310210": [
+    "inflection_pattern_49",
+    "inflection_pattern_60",
+    "inflection_pattern_104",
+    "inflection_pattern_105",
+    "inflection_pattern_107",
+    "inflection_pattern_163",
+    "inflection_pattern_166",
+    "inflection_pattern_263",
+    "inflection_pattern_273"
+  ],
+  "012304105231420312010": [
+    "inflection_pattern_79",
+    "inflection_pattern_104",
+    "inflection_pattern_105",
+    "inflection_pattern_107",
+    "inflection_pattern_163",
+    "inflection_pattern_166",
+    "inflection_pattern_263",
+    "inflection_pattern_273"
+  ],
+  "012304105231423010210": [
+    "inflection_pattern_49",
+    "inflection_pattern_60",
+    "inflection_pattern_107",
+    "inflection_pattern_166",
+    "inflection_pattern_273"
+  ],
+  "012304105231423012010": [
+    "inflection_pattern_66",
+    "inflection_pattern_107",
+    "inflection_pattern_166",
+    "inflection_pattern_273"
+  ],
+  "012304120130524132010": [
+    "inflection_pattern_318"
+  ],
+  "012304120135024132010": [
+    "inflection_pattern_318"
+  ],
+  "012304120135204130210": [
+    "inflection_pattern_199"
+  ],
+  "012304120531042103210": [
+    "inflection_pattern_13",
+    "inflection_pattern_110",
+    "inflection_pattern_111",
+    "inflection_pattern_112",
+    "inflection_pattern_218",
+    "inflection_pattern_220",
+    "inflection_pattern_245"
+  ],
+  "012304120531042130210": [
+    "inflection_pattern_43"
+  ],
+  "012304120531243012010": [
+    "inflection_pattern_68"
+  ],
+  "012304120531402103210": [
+    "inflection_pattern_111",
+    "inflection_pattern_112"
+  ],
+  "012304123015201403210": [
+    "inflection_pattern_206"
+  ],
+  "012304123051201403210": [
+    "inflection_pattern_205"
+  ],
+  "012304123501201403210": [
+    "inflection_pattern_205",
+    "inflection_pattern_207"
+  ],
+  "012304125031042103210": [
+    "inflection_pattern_9",
+    "inflection_pattern_111",
+    "inflection_pattern_218",
+    "inflection_pattern_241"
+  ],
+  "012304125031240310210": [
+    "inflection_pattern_26"
+  ],
+  "012304125031243010210": [
+    "inflection_pattern_0",
+    "inflection_pattern_119",
+    "inflection_pattern_122",
+    "inflection_pattern_214",
+    "inflection_pattern_231"
+  ],
+  "012304125031243012010": [
+    "inflection_pattern_62",
+    "inflection_pattern_119",
+    "inflection_pattern_122",
+    "inflection_pattern_214",
+    "inflection_pattern_231"
+  ],
+  "012304125031402103210": [
+    "inflection_pattern_111"
+  ],
+  "012304125301240132010": [
+    "inflection_pattern_93"
+  ],
+  "012304150231402103210": [
+    "inflection_pattern_58",
+    "inflection_pattern_108",
+    "inflection_pattern_111",
+    "inflection_pattern_117",
+    "inflection_pattern_166",
+    "inflection_pattern_252"
+  ],
+  "012304150231402130210": [
+    "inflection_pattern_41",
+    "inflection_pattern_58",
+    "inflection_pattern_117",
+    "inflection_pattern_163",
+    "inflection_pattern_166",
+    "inflection_pattern_266"
+  ],
+  "012304150231402132010": [
+    "inflection_pattern_83",
+    "inflection_pattern_117",
+    "inflection_pattern_163",
+    "inflection_pattern_166",
+    "inflection_pattern_266"
+  ],
+  "012304150231402312010": [
+    "inflection_pattern_78",
+    "inflection_pattern_117",
+    "inflection_pattern_163",
+    "inflection_pattern_166",
+    "inflection_pattern_262"
+  ],
+  "012304150231420103210": [
+    "inflection_pattern_58",
+    "inflection_pattern_106",
+    "inflection_pattern_166",
+    "inflection_pattern_252"
+  ],
+  "012304150231420130210": [
+    "inflection_pattern_41",
+    "inflection_pattern_58",
+    "inflection_pattern_104",
+    "inflection_pattern_106",
+    "inflection_pattern_163",
+    "inflection_pattern_166",
+    "inflection_pattern_266"
+  ],
+  "012304150231420132010": [
+    "inflection_pattern_83",
+    "inflection_pattern_104",
+    "inflection_pattern_106",
+    "inflection_pattern_163",
+    "inflection_pattern_166",
+    "inflection_pattern_266"
+  ],
+  "012304150231420310210": [
+    "inflection_pattern_28",
+    "inflection_pattern_48",
+    "inflection_pattern_104",
+    "inflection_pattern_163",
+    "inflection_pattern_166",
+    "inflection_pattern_262"
+  ],
+  "012304150231420312010": [
+    "inflection_pattern_78",
+    "inflection_pattern_104",
+    "inflection_pattern_163",
+    "inflection_pattern_166",
+    "inflection_pattern_262"
+  ],
+  "012304150231423010210": [
+    "inflection_pattern_48",
+    "inflection_pattern_166"
+  ],
+  "012304150231423012010": [
+    "inflection_pattern_65",
+    "inflection_pattern_166"
+  ],
+  "012304152031042103210": [
+    "inflection_pattern_9",
+    "inflection_pattern_11",
+    "inflection_pattern_15",
+    "inflection_pattern_58",
+    "inflection_pattern_109",
+    "inflection_pattern_111",
+    "inflection_pattern_117",
+    "inflection_pattern_170",
+    "inflection_pattern_171",
+    "inflection_pattern_175",
+    "inflection_pattern_176",
+    "inflection_pattern_248",
+    "inflection_pattern_252",
+    "inflection_pattern_283"
+  ],
+  "012304152031042130210": [
+    "inflection_pattern_58",
+    "inflection_pattern_117",
+    "inflection_pattern_175",
+    "inflection_pattern_176",
+    "inflection_pattern_283"
+  ],
+  "012304152031042132010": [
+    "inflection_pattern_96",
+    "inflection_pattern_117",
+    "inflection_pattern_175",
+    "inflection_pattern_176",
+    "inflection_pattern_283"
+  ],
+  "012304152031402103210": [
+    "inflection_pattern_58",
+    "inflection_pattern_108",
+    "inflection_pattern_111",
+    "inflection_pattern_117",
+    "inflection_pattern_175",
+    "inflection_pattern_252"
+  ],
+  "012304152031402130210": [
+    "inflection_pattern_41",
+    "inflection_pattern_58",
+    "inflection_pattern_117",
+    "inflection_pattern_173",
+    "inflection_pattern_175",
+    "inflection_pattern_266"
+  ],
+  "012304152031402132010": [
+    "inflection_pattern_83",
+    "inflection_pattern_117",
+    "inflection_pattern_173",
+    "inflection_pattern_175",
+    "inflection_pattern_266"
+  ],
+  "012304152031402312010": [
+    "inflection_pattern_78",
+    "inflection_pattern_117",
+    "inflection_pattern_172",
+    "inflection_pattern_262"
+  ],
+  "012304152031420103210": [
+    "inflection_pattern_58",
+    "inflection_pattern_106",
+    "inflection_pattern_175",
+    "inflection_pattern_252"
+  ],
+  "012304152031420130210": [
+    "inflection_pattern_41",
+    "inflection_pattern_58",
+    "inflection_pattern_104",
+    "inflection_pattern_106",
+    "inflection_pattern_173",
+    "inflection_pattern_175",
+    "inflection_pattern_266"
+  ],
+  "012304152031420132010": [
+    "inflection_pattern_83",
+    "inflection_pattern_104",
+    "inflection_pattern_106",
+    "inflection_pattern_173",
+    "inflection_pattern_175",
+    "inflection_pattern_266"
+  ],
+  "012304152031420310210": [
+    "inflection_pattern_28",
+    "inflection_pattern_48",
+    "inflection_pattern_104",
+    "inflection_pattern_172",
+    "inflection_pattern_262"
+  ],
+  "012304152031420312010": [
+    "inflection_pattern_78",
+    "inflection_pattern_104",
+    "inflection_pattern_172",
+    "inflection_pattern_262"
+  ],
+  "012304152031423010210": [
+    "inflection_pattern_48"
+  ],
+  "012304152031423012010": [
+    "inflection_pattern_65"
+  ],
+  "012304152301042103210": [
+    "inflection_pattern_15",
+    "inflection_pattern_109",
+    "inflection_pattern_170",
+    "inflection_pattern_248"
+  ],
+  "012304152301402103210": [
+    "inflection_pattern_108"
+  ],
+  "012340102513204310210": [
+    "inflection_pattern_53"
+  ],
+  "012340102531042103210": [
+    "inflection_pattern_19",
+    "inflection_pattern_57",
+    "inflection_pattern_111",
+    "inflection_pattern_112",
+    "inflection_pattern_116",
+    "inflection_pattern_178",
+    "inflection_pattern_201",
+    "inflection_pattern_250"
+  ],
+  "012340102531042130210": [
+    "inflection_pattern_57",
+    "inflection_pattern_116",
+    "inflection_pattern_201",
+    "inflection_pattern_269"
+  ],
+  "012340102531042132010": [
+    "inflection_pattern_94",
+    "inflection_pattern_116",
+    "inflection_pattern_201",
+    "inflection_pattern_269"
+  ],
+  "012340102531402103210": [
+    "inflection_pattern_111",
+    "inflection_pattern_112",
+    "inflection_pattern_116"
+  ],
+  "012340102531402130210": [
+    "inflection_pattern_116"
+  ],
+  "012340102531402132010": [
+    "inflection_pattern_116"
+  ],
+  "012340105213204310210": [
+    "inflection_pattern_50"
+  ],
+  "012340105231042103210": [
+    "inflection_pattern_7",
+    "inflection_pattern_11",
+    "inflection_pattern_111",
+    "inflection_pattern_115",
+    "inflection_pattern_165",
+    "inflection_pattern_244"
+  ],
+  "012340105231042130210": [
+    "inflection_pattern_44",
+    "inflection_pattern_115",
+    "inflection_pattern_165",
+    "inflection_pattern_268"
+  ],
+  "012340105231042132010": [
+    "inflection_pattern_95",
+    "inflection_pattern_115",
+    "inflection_pattern_165",
+    "inflection_pattern_268"
+  ],
+  "012340105231243012010": [
+    "inflection_pattern_67"
+  ],
+  "012340105231402103210": [
+    "inflection_pattern_111",
+    "inflection_pattern_115"
+  ],
+  "012340105231402130210": [
+    "inflection_pattern_115"
+  ],
+  "012340105231402132010": [
+    "inflection_pattern_81",
+    "inflection_pattern_115"
+  ],
+  "012340105231420132010": [
+    "inflection_pattern_81"
+  ],
+  "012340120130524130210": [
+    "inflection_pattern_160"
+  ],
+  "012340120130524132010": [
+    "inflection_pattern_160"
+  ],
+  "012340120135024130210": [
+    "inflection_pattern_160"
+  ],
+  "012340120135024132010": [
+    "inflection_pattern_160"
+  ],
+  "012340120135204130210": [
+    "inflection_pattern_160"
+  ],
+  "012340120135240103210": [
+    "inflection_pattern_159"
+  ],
+  "012340120531042103210": [
+    "inflection_pattern_19",
+    "inflection_pattern_57",
+    "inflection_pattern_111",
+    "inflection_pattern_112",
+    "inflection_pattern_116",
+    "inflection_pattern_219",
+    "inflection_pattern_229",
+    "inflection_pattern_250"
+  ],
+  "012340120531042130210": [
+    "inflection_pattern_57",
+    "inflection_pattern_116",
+    "inflection_pattern_229",
+    "inflection_pattern_269"
+  ],
+  "012340120531042132010": [
+    "inflection_pattern_94",
+    "inflection_pattern_116",
+    "inflection_pattern_229",
+    "inflection_pattern_269"
+  ],
+  "012340120531402103210": [
+    "inflection_pattern_111",
+    "inflection_pattern_112",
+    "inflection_pattern_116"
+  ],
+  "012340120531402130210": [
+    "inflection_pattern_116"
+  ],
+  "012340120531402132010": [
+    "inflection_pattern_116"
+  ],
+  "012340125031042103210": [
+    "inflection_pattern_18",
+    "inflection_pattern_111",
+    "inflection_pattern_217",
+    "inflection_pattern_249"
+  ],
+  "012340125031243010210": [
+    "inflection_pattern_1",
+    "inflection_pattern_122",
+    "inflection_pattern_215",
+    "inflection_pattern_232"
+  ],
+  "012340125031243012010": [
+    "inflection_pattern_64",
+    "inflection_pattern_122",
+    "inflection_pattern_215",
+    "inflection_pattern_232"
+  ],
+  "012340125031402103210": [
+    "inflection_pattern_111"
+  ],
+  "012340125301240132010": [
+    "inflection_pattern_92"
+  ],
+  "012340125304102132010": [
+    "inflection_pattern_80"
+  ],
+  "012340125304120132010": [
+    "inflection_pattern_80"
+  ],
+  "012340125340120130210": [
+    "inflection_pattern_103"
+  ],
+  "012340125340120132010": [
+    "inflection_pattern_103"
+  ],
+  "012340150213240310210": [
+    "inflection_pattern_27"
+  ],
+  "012340150231042103210": [
+    "inflection_pattern_11",
+    "inflection_pattern_111",
+    "inflection_pattern_165",
+    "inflection_pattern_240"
+  ],
+  "012340150231042130210": [
+    "inflection_pattern_165"
+  ],
+  "012340150231042132010": [
+    "inflection_pattern_165"
+  ],
+  "012340150231243012010": [
+    "inflection_pattern_63"
+  ],
+  "012340150231402103210": [
+    "inflection_pattern_111"
+  ],
+  "012340152031042103210": [
+    "inflection_pattern_11",
+    "inflection_pattern_111",
+    "inflection_pattern_171",
+    "inflection_pattern_240"
+  ],
+  "012340152031243010210": [
+    "inflection_pattern_167"
+  ],
+  "012340152031243012010": [
+    "inflection_pattern_63",
+    "inflection_pattern_167"
+  ],
+  "012340152031402103210": [
+    "inflection_pattern_111"
+  ],
+  "012340152301240132010": [
+    "inflection_pattern_91"
+  ],
+  "012340510213240310210": [
+    "inflection_pattern_25"
+  ],
+  "012340510231042103210": [
+    "inflection_pattern_8",
+    "inflection_pattern_111",
+    "inflection_pattern_161",
+    "inflection_pattern_164",
+    "inflection_pattern_258"
+  ],
+  "012340510231042130210": [
+    "inflection_pattern_164"
+  ],
+  "012340510231042132010": [
+    "inflection_pattern_164"
+  ],
+  "012340510231243012010": [
+    "inflection_pattern_61"
+  ],
+  "012340510231402103210": [
+    "inflection_pattern_111"
+  ],
+  "012340512031042103210": [
+    "inflection_pattern_8",
+    "inflection_pattern_111",
+    "inflection_pattern_169",
+    "inflection_pattern_258"
+  ],
+  "012340512031243010210": [
+    "inflection_pattern_168"
+  ],
+  "012340512031243012010": [
+    "inflection_pattern_61",
+    "inflection_pattern_168"
+  ],
+  "012340512031402103210": [
+    "inflection_pattern_111"
+  ],
+  "012340512301240132010": [
+    "inflection_pattern_90"
+  ],
+  "012345010213021430210": [
+    "inflection_pattern_151",
+    "inflection_pattern_162",
+    "inflection_pattern_272"
+  ],
+  "012345010213021432010": [
+    "inflection_pattern_151",
+    "inflection_pattern_162",
+    "inflection_pattern_272"
+  ],
+  "012345010213201430210": [
+    "inflection_pattern_131",
+    "inflection_pattern_162",
+    "inflection_pattern_272"
+  ],
+  "012345010231042103210": [
+    "inflection_pattern_111"
+  ],
+  "012345010231402103210": [
+    "inflection_pattern_111"
+  ],
+  "012345012013021430210": [
+    "inflection_pattern_151",
+    "inflection_pattern_174",
+    "inflection_pattern_272"
+  ],
+  "012345012013021432010": [
+    "inflection_pattern_151",
+    "inflection_pattern_174",
+    "inflection_pattern_272"
+  ],
+  "012345012031042103210": [
+    "inflection_pattern_111"
+  ],
+  "012345012031402103210": [
+    "inflection_pattern_111"
+  ],
+  "012345012301204310210": [
+    "inflection_pattern_136"
+  ],
+  "012345012301204312010": [
+    "inflection_pattern_136"
+  ],
+  "012345012301240310210": [
+    "inflection_pattern_136"
+  ],
+  "012345012301240312010": [
+    "inflection_pattern_136"
+  ],
+  "012345012301243010210": [
+    "inflection_pattern_136"
+  ]
+}
