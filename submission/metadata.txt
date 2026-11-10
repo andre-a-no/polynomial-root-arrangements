@@ -1,0 +1,25 @@
+Title: An exact certificate-based enumeration of Rolle words of degree six
+Author: Andrey A. Novikov
+Suggested primary category: math.CA
+Suggested cross-list: math.CO
+Comments: 11 pages. Preprint, not peer reviewed. Exact certificates and Python verifier included as ancillary files. Most of the mathematical development, code, certificates and manuscript were generated using ChatGPT under human direction; substantial AI use is disclosed on the first page and in Section 9. No independent human audit of the complete proof chain has been completed.
+Journal reference: leave empty
+DOI: leave empty
+License: to be selected by the human submitter
+Submission status: prepared only; not submitted
+
+For a strictly hyperbolic real polynomial whose nonconstant derivatives have
+mutually distinct roots, record the derivative orders of all roots from left
+to right. We report a computer-assisted classification of these Rolle words
+in degree six: exactly 2706 words are realizable, counting reflections
+separately. The computation starts from 33592 formal interlacing words. The
+known quintic classification and a theorem of Kostov--Shapiro reduce this to
+13404 candidates. Integer realization certificates and 53 exact exclusion
+stages produce an exhaustive, disjoint classification. Verification uses
+integer and rational arithmetic; floating-point searches are not used as
+impossibility proofs. A readable enumerator and an explicit proof-stage ledger
+accompany the certificate corpus. Most of the mathematical development,
+software, certificate construction, and initial exposition were generated
+using ChatGPT in an interactive project directed by the author. This
+substantial contribution and the absence of an independent human audit are
+documented explicitly.

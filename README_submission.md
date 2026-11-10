@@ -9,7 +9,7 @@ Version: 1.0, 10 November 2026
 Suggested primary category: math.CA. Suggested cross-list: math.CO.
 These are preparation suggestions, not a record of a submission.
 
-Suggested comments: 10 pages; exact certificate corpus and Python verification
+Suggested comments: 11 pages; exact certificate corpus and Python verification
 code included as ancillary files; substantial use of ChatGPT disclosed in
 Section 9 and in the abstract.
 
@@ -21,7 +21,7 @@ Section 9 and in the abstract.
 - `anc/rolle6_artifact/`: self-contained code, certificates, proof notes,
   verification reports and tests.
 
-The source ZIP contains no compiled PDF. A separate PDF is supplied for review.
+The arXiv source ZIP contains no compiled PDF. The repository includes a separate compiled PDF for review.
 The ancillary files are already in arXiv's `anc/` layout.
 
 ## Build the manuscript
@@ -49,6 +49,14 @@ python3 -m unittest discover -s tests -v
 Use Python 3.10 or later without optimization. No third-party Python packages
 are needed. See the artifact's README and architecture note for the complete
 word and certificate definitions.
+
+## Repository and release status
+
+Public repository: https://github.com/andre-a-no/polynomial-root-arrangements
+
+This is a preprint, not peer reviewed. The first page explicitly discloses that most of the mathematical development, code, certificates and manuscript were generated using ChatGPT under human direction.
+
+The separate historical research ZIP was not imported: it exceeds the attachment transfer limit. The compact ancillary artifact is included in full.
 
 ## Attribution and review status
 
