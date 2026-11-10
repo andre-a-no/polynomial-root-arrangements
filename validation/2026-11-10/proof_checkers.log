@@ -1,0 +1,167 @@
+
+--- verify_bounds.check_linear(6,) ---
+EXACTLY VERIFIED 2718 linear obstruction certificates
+
+--- verify_bounds.check_quadratic(6,) ---
+EXACTLY VERIFIED 1141 quadratic certificates, excluding 2282 words including reflections
+
+--- verify_bounds.check_quadratic(6, True) ---
+EXACTLY VERIFIED 2 quadratic_pairs certificates, excluding 4 words including reflections
+
+--- verify_primitive.check() ---
+EXACTLY VERIFIED 4 primitive obstruction identities; 8 oriented quintic words
+EXACTLY VERIFIED 6 primitive obstruction identities; 12 oriented quintic words
+Quintic orders: 96 have a certified sextic primitive; 20 cannot have one; 0 unresolved
+
+--- verify_primitive.check_mean() ---
+EXACTLY VERIFIED 15 primitive obstruction identities; 30 oriented quintic words
+EXACT CLASSIFICATION: 162 realizable (quintic order, primitive sign at mean) pairs; 30 additional pairs excluded
+
+--- analytic_obstruction.check_identities() ---
+EXACTLY VERIFIED analytic mean-value identity, derivative identities and endpoint bounds
+
+--- analytic_middle_obstruction.check_identities() ---
+EXACTLY VERIFIED middle-interval identities, rational positivity bounds and cubic midpoint identity
+
+--- central_value_obstruction.check_identities() ---
+EXACTLY VERIFIED 4 distinct central-value identities
+
+--- parametric_middle_obstruction.check_certificates() ---
+EXACTLY VERIFIED 8 parametric identities and 9 interval applications covering 5 sign patterns on (0,1)
+
+--- polar_mean_obstruction.check_certificates() ---
+EXACTLY VERIFIED 12 mean-polar quartic obstruction certificates
+
+--- factor_deletion_obstruction.check_certificates() ---
+EXACTLY VERIFIED 44 root-deletion obstruction certificates
+
+--- joint_deletion_obstruction.check_certificates() ---
+EXACTLY VERIFIED 8 joint-deletion obstruction certificates
+
+--- subfactor_obstruction.check_certificates() ---
+EXACTLY VERIFIED 16 shared-subfactor sign obstruction certificates
+
+--- metric_obstruction.check_certificates() ---
+EXACTLY VERIFIED 6 metric obstruction certificates
+
+--- moment_obstruction.check_certificates() ---
+EXACTLY VERIFIED 2 coupled second-moment certificates
+
+--- quartic_bridge_obstruction.check_certificates() ---
+EXACTLY VERIFIED two quartic midpoint identities
+EXACTLY VERIFIED 82 quartic middle-root certificates
+
+--- outer_cubic_obstruction.check_certificates() ---
+EXACTLY VERIFIED 4 outer-cubic identities and 6 interval branches covering the full normalized parameter domain
+
+--- two_parameter_obstruction.check_certificates() ---
+EXACTLY VERIFIED 5 two-parameter identities, one positive combination, and 78 Bernstein rectangles covering the full domain
+
+--- right_maximum_obstruction.check_certificates() ---
+EXACTLY VERIFIED 6 right-maximum identities and 65 Bernstein rectangles covering the full domain
+
+--- stationary_obstruction.check_certificates() ---
+EXACTLY VERIFIED 50 stationary patterns; 122 polynomial identities; 1841 Bernstein rectangles
+
+--- inflection_obstruction.check_certificates() ---
+EXACTLY VERIFIED 320 inflection patterns; 622 polynomial identities; 23375 Bernstein rectangles
+
+--- full_stationary_obstruction.check_certificates() ---
+EXACTLY VERIFIED 6 full stationary patterns and 476 Bernstein rectangles
+
+--- blowup_obstruction.check_certificates() ---
+EXACTLY VERIFIED 4 blow-up patterns; 8 covering charts; 116 Bernstein rectangles
+
+--- left_minimum_inflection_obstruction.check_certificates() ---
+EXACTLY VERIFIED coupled left-minimum/inflection obstruction: 8 identities, 95 three-dimensional Bernstein boxes.
+
+--- coupled_anchor_obstruction.check_certificates() ---
+EXACTLY VERIFIED 34 coupled inflection/stationary patterns and 34546 three-dimensional Bernstein boxes.
+
+--- inflection_pair_obstruction.check_certificates() ---
+EXACTLY VERIFIED Hermite Delta3, Delta4 and the elimination identity L^2+400K=8GF.
+EXACTLY VERIFIED 16 two-inflection certificates and 912 three-dimensional Bernstein boxes on the equality surface.
+
+--- hermite_fiber_obstruction.check_certificates() ---
+EXACTLY VERIFIED the formal H5 test-vector identity in nine variables.
+EXACTLY VERIFIED the formal H6 quadratic-in-B, affine-in-C identity in ten variables.
+EXACTLY VERIFIED 4 Hermite-fibre certificates and 342 three-dimensional Bernstein boxes.
+
+--- hermite_endpoint_obstruction.check_identities() ---
+EXACTLY VERIFIED Hermite endpoint obstruction: Newton identities, convexity endpoints and 15 positive univariate Bernstein coefficients.
+
+--- laguerre_trapezoid_obstruction.check_identities() ---
+EXACTLY VERIFIED both polynomial integral identities for the Laguerre-trapezoid obstructions.
+
+--- outer_secant_obstruction.check_identities() ---
+EXACTLY VERIFIED outer-secant identities, H3 determinant, and fifteen positive Bernstein coefficients.
+
+--- marker_quadrature_obstruction.check_identities() ---
+EXACTLY VERIFIED both polynomial integral identities for the Laguerre-trapezoid obstructions.
+
+--- marker_hermite_obstruction.check_certificates() ---
+EXACTLY VERIFIED the formal H5 test-vector identity in nine variables.
+EXACTLY VERIFIED 1 full-H5 marker signatures and 10 two-dimensional Bernstein boxes.
+
+--- marker_hermite6_obstruction.check_certificates() ---
+EXACTLY VERIFIED the formal H6 quadratic-in-B, affine-in-C identity in ten variables.
+EXACTLY VERIFIED 2 full-H6-chord marker signatures and 29 two-dimensional Bernstein boxes.
+
+--- marker_boundary_obstruction.check_certificates() ---
+EXACTLY VERIFIED the formal H6 quadratic-in-B, affine-in-C identity in ten variables.
+EXACTLY VERIFIED 3 further marker signatures and 392 rational Bernstein rectangles.
+
+--- marker_moving_hermite6_obstruction.check_certificates() ---
+EXACTLY VERIFIED the formal H6 quadratic-in-B, affine-in-C identity in ten variables.
+EXACTLY VERIFIED 1 full-H6-chord marker signatures and 483 two-dimensional Bernstein boxes.
+
+--- quintic_minimum_obstruction.check_certificates() ---
+EXACTLY VERIFIED two value identities, upper z bound, and 4 Bernstein rectangles; coefficient minima: ['54', '4128755/524288', '42071113/12582912', '40304866152369/1099511627776']
+
+--- triple_inflection_obstruction.check_certificates() ---
+EXACTLY VERIFIED triple-inflection value identities, root geometry, positive unbounded tail, and 22 rational Bernstein rectangles.
+
+--- middle_triple_obstruction.check_identities() ---
+EXACTLY VERIFIED consecutive-triple identities; bounds -37/16 and -17/16; no Bernstein rectangles required.
+
+--- right_fourth_minimum_obstruction.check_certificates() ---
+EXACTLY VERIFIED right-P4/first-minimum identities; 17 independently checked boxes; 5 positive tail coefficients.
+
+--- outer_inflection_average_obstruction.check_identities() ---
+EXACTLY VERIFIED outer-inflection weighted-average identity; strictly positive remainder for 0<m<1, 1/2<p<1.
+
+--- central_cubic_chord_obstruction.check_certificates() ---
+EXACTLY VERIFIED central-cubic chord identities and 5 independently checked rational rectangles.
+
+--- left_cubic_chord_obstruction.check_certificates() ---
+EXACTLY VERIFIED left-cubic chord identities and 7 independently checked rational rectangles.
+
+--- left_mean_average_obstruction.check_certificates() ---
+EXACTLY VERIFIED left-cubic/mean inflection average; 27 independent rational rectangles.
+
+--- fourth_remainder_obstruction.check_certificates() ---
+EXACTLY VERIFIED two fourth-derivative remainder rules: two coefficient tails and three positive polynomial bounds on two rectangles.
+
+--- outer_cubic_chord_obstruction.check_certificates() ---
+EXACTLY VERIFIED outer-cubic chord: six rational rectangles, independent coefficient checks and a positive tail.
+
+--- left_cubic_negative_obstruction.check_certificates() ---
+EXACTLY VERIFIED left-cubic negative-value obstruction: 7 rational boxes.
+
+--- last_pair_obstruction.check_certificates() ---
+EXACTLY VERIFIED last-pair obstruction: 241 left-minimum boxes and 530 right-maximum boxes; both limiting squares and boundaries checked.
+
+--- right_peak_obstruction.check_certificates() ---
+EXACTLY VERIFIED right-peak obstruction: 34 independent rational boxes and six positive tail coefficients.
+
+--- mean_rebound_obstruction.check_certificates() ---
+EXACTLY VERIFIED mean-rebound obstruction: 18 rational boxes; small-u exclusion, parameter tail, and complete spatial tail.
+
+--- negative_inflections_obstruction.check_certificates() ---
+EXACTLY VERIFIED negative-inflections obstruction: 17 rational boxes with certified cubic-root bounds and the unbounded parameter controlled.
+
+--- positive_H_first_minimum_obstruction.check_certificates() ---
+EXACTLY VERIFIED positive-H first-minimum obstruction: 81 rational boxes; limiting square and unbounded r included.
+
+--- central_dip_obstruction.check_certificates() ---
+EXACTLY VERIFIED central-dip obstruction: 194 rational boxes and certified central-root bounds.
