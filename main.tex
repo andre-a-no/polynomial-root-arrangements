@@ -28,7 +28,7 @@
 \setlength{\emergencystretch}{2em}
 \title{An exact certificate-based enumeration\\of Rolle words of degree six}
 \author{Andrey A. Novikov}
-\date{10 November 2026\\\small Preprint, version 1.0}
+\date{11 November 2026\\\small Preprint, version 1.1}
 
 \begin{document}
 \maketitle
@@ -37,26 +37,29 @@ Most of the mathematical development, code, certificates, and manuscript\\
 were generated using ChatGPT (OpenAI), under the direction of the human author.
 \end{center}
 \begin{abstract}
-For a strictly hyperbolic real polynomial whose nonconstant derivatives
-have mutually distinct roots, record the derivative orders of all roots
-from left to right. We report a computer-assisted classification of these
-Rolle words in degree six: exactly $2706$ words are realizable, counting
-reflections separately. The computation starts from $33592$ formal
-interlacing words. The known quintic classification and a theorem of
-Kostov--Shapiro reduce this to $13404$ candidates. Integer realization
-certificates and $53$ exact exclusion stages produce an exhaustive,
-disjoint classification. Verification uses integer and rational arithmetic;
-floating-point searches are not used as impossibility proofs. A readable
-enumerator and an explicit proof-stage ledger accompany the certificate
-corpus. Most of the mathematical development, software, certificate
-construction, and initial exposition were generated using ChatGPT in an
-interactive project directed by the author. This substantial contribution
-and the absence of an independent human audit are documented explicitly.
+For a real polynomial of degree $n$ with $n$ distinct real roots, assume
+that no two different nonconstant derivatives, including the polynomial
+itself, share a root. Recording the derivative orders of all roots from
+left to right gives a Rolle word. We present an exact, computer-assisted
+classification in degree six: $2706$ words are realizable, with a word
+and its reversal counted separately. Starting from $33592$ formal
+interlacing words, published necessary restrictions leave $13404$
+candidates. Integer realization certificates and $53$ exact exclusion
+stages classify every candidate. The surviving set agrees exactly with
+the set of certified realizations. All verification uses integer and
+rational arithmetic. The accompanying code, certificates, proof notes,
+and per-word exclusion ledger make the computation reproducible.
+The result concerns degree six; it does not resolve the classification
+problem in arbitrary degree or count connected components of coefficient
+space. Most of the mathematical development, code, certificates, and
+initial manuscript were generated using ChatGPT under the author's
+direction. No independent human audit of the complete proof chain has
+yet been completed.
 \end{abstract}
 \noindent\textbf{Keywords:} hyperbolic polynomial; Rolle word; real roots;
 derivative; exact enumeration; computer-assisted proof; Bernstein basis.
 
-\section{Problem, result, and provenance}
+\section{Problem, context, and result}
 
 Let $P\in\R[x]$ have degree $n$ and $n$ distinct real roots. By Rolle's
 theorem, $P^{(j)}$ has $n-j$ distinct real roots for $0\le j<n$.
@@ -71,35 +74,78 @@ Let $a_n$ denote the number of realizable words. A word and its reversal
 are counted separately.
 \end{definition}
 
-The question belongs to the study of root configurations associated with
-Arnold and developed by Kostov and Shapiro
-\cite{Kostov2002,KostovShapiro2002}. Kostov's Theorem~2
-\cite{Kostov2002} gives $a_5=116$, whereas $286$ formal interlacing
-words exist in that degree. Kostov--Shapiro \cite{KostovShapiro2002}
-establish additional restrictions beyond Rolle interlacing. We use these
-published results explicitly; the completeness of the quintic list is not
-inferred from a random search.
+\paragraph{Relation to earlier work.}
+Shapiro and Shapiro~\cite[Section~2]{ShapiroShapiro2012} formulate the
+classification problem in this encoding, using the term symbolic
+sequence. It also appears as Problem~7 in Shapiro's survey
+\cite{Shapiro2015}. A formal word satisfies Rolle interlacing, but need
+not be realizable by a polynomial. In degree four, $10$ of the $12$
+formal words are realizable. Kostov~\cite[Theorem~2]{Kostov2002} proves
+that $a_5=116$, whereas there are $286$ formal words in degree five.
+Kostov and Shapiro~\cite{KostovShapiro2002} give further necessary
+restrictions. These published results are inputs to the present proof;
+in particular, completeness of the quintic classification is not inferred
+from a search for examples.
+
+The class of hyperbolic polynomial-like functions is larger than the
+class of polynomials considered here. Kostov~\cite{Kostov2007} gives
+$236$ realizable arrangements for such functions in degree five,
+compared with $116$ for polynomials. The two realization problems must
+therefore be distinguished.
+
+There is also a separate asymptotic question, attributed to Arnold by
+Shapiro and Shapiro~\cite[Section~2, Problem~1]{ShapiroShapiro2012}:
+does the proportion of formal words realizable by polynomials tend to
+zero? A recent preprint of Ferudun~\cite{Ferudun2026} addresses that
+question by bounding the number of realizable words using
+collision resultants and a component bound. It does not give a
+classification in degree six. Its asymptotic result is not used below.
+
+\paragraph{Contribution and scope.}
+The present work gives a finite classification for degree six, together
+with exact realization and exclusion certificates. It provides an
+explicit instance of the general classification problem, rather than a
+solution in arbitrary degree. The main result is as follows.
 
 \begin{theorem}[Computer-assisted enumeration]\label{thm:main}
 Under the definition above, $a_6=2706$.
 \end{theorem}
 
-The proof consists of the mathematical reductions described below and the
-associated exact certificate verification. It is not a computation of
-connected components of coefficient space. In particular, no assertion
-that the realization set of a fixed word is connected is required.
-The present paper makes no separate claim that a literature search has
-established publication priority for the numerical result or every
-individual inequality.
+The lower bound comes from $2706$ distinct words with integer
+realization certificates. For the upper bound, published restrictions
+reduce the formal enumeration to $13404$ candidates, and $53$ checked
+exclusion stages remove the other $10698$ words. The final residual set
+is compared with the certified witness set, word by word.
 
-\paragraph{Status of verification.}
-The complete archived verifier and the refactored certificate pipeline
-have been executed. The former is retained as a reference implementation.
-Agreement of two organizational implementations does not constitute an
-independent human audit: both were produced within the same AI-assisted
-project and share the mathematical certificate checkers. The result is
-not a formal proof in a foundational proof assistant. These qualifications
-are relevant to the evidential status of Theorem~\ref{thm:main}.
+The quantity $a_6$ counts total orders of roots, not connected components
+of coefficient space. No claim that the realization set of a fixed word
+is connected is needed. We make no claim here to have established
+absolute publication priority for the count or for each individual
+inequality.
+
+\paragraph{Evidence and verification limits.}
+The reference computation and the refactored certificate pipeline have
+both been executed successfully. They share the specialized mathematical
+checkers, so their agreement is a reproducibility check, not an
+independent implementation of every proof argument. The lower-bound
+certificates are checked directly by integer sign evaluation. The
+upper bound additionally depends on the correctness of the necessary
+conditions used by the exclusion rules. Successful execution checks the
+encoded identities, signs, covers, and set accounting; it does not by
+itself validate every mathematical reduction. The development is not
+formalized in a proof assistant, and no independent human audit of the
+complete proof chain has yet been completed. Section~\ref{sec:ai}
+describes the substantial role of ChatGPT and the author's role.
+
+\paragraph{Organization.}
+We first enumerate the formal words and apply the published filters,
+then describe the realization certificates and the main forms of
+exclusion certificate. Sections~\ref{sec:normal} and~\ref{sec:central}
+give a common normalization and a complete worked exclusion.
+The remaining sections explain the set accounting, reproduction
+procedure, and provenance. Appendix~\ref{app:ledger} lists every stage
+and its incremental contribution; the ancillary proof notes and source
+code supply the stage-specific derivations.
 
 \section{Exhaustive enumeration without root finding}
 
@@ -193,7 +239,7 @@ specified total order.
 If $f$ has degree $d$, the sign of $f(b/q)$ is the sign of the integer
 $q^d f(b/q)$. A denominator-clearing Horner evaluation computes this
 integer directly. Thus the verification requires neither approximate
-roots nor a tolerance. The new checker additionally rejects duplicate
+roots nor a tolerance. The witness checker also rejects duplicate
 JSON keys, malformed multiplicities, noninteger data, zero denominators,
 unordered endpoints, and missing sign changes.
 
@@ -334,8 +380,9 @@ General position excludes equality. A strictly hyperbolic sextic must
 have negative first critical minimum and positive fourth critical
 maximum. These elementary sign requirements are used repeatedly.
 
-The final $28$ unresolved words from the historical base are excluded by
-seven checked rules. The first two share a recorded recovery stage; their
+The first $46$ stages leave $2734$ candidates. The last seven stages
+exclude $28$ of these candidates, leaving the certified witness set.
+The first two share a recorded recovery stage; their
 net contributions are nevertheless counted separately.
 \begin{center}\small
 \begin{tabular}{p{.55\linewidth}rr}
@@ -509,9 +556,10 @@ Thus both bounds are $2706$.
 \end{proof}
 
 The full incremental ledger is given in Appendix~\ref{app:ledger}.
-The historical base ended at $2734$, followed by seven contributions
-$2,2,2,4,6,6,6$. The intermediate bound is retained in old files for
-reproducibility and must not be mistaken for the current result.
+After stage $46$, the residual set has $2734$ words. The last seven
+stages contribute $2,2,2,4,6,6,6$ new exclusions. Some historical proof
+notes retain the intermediate bound $2734$; the complete ledger gives
+the final count $2706$.
 
 \section{Software structure and reproduction}
 
@@ -564,13 +612,13 @@ with it.} This includes proposing many of the reductions, drafting most
 proof arguments, writing and revising the search and verification
 programs, constructing exact certificates, analyzing the remaining cases,
 performing the code refactoring, and drafting most of this manuscript.
-The declaration is intended as substantive attribution of the tool's
-role, rather than a generic language-editing acknowledgement.
+This disclosure concerns the mathematical and computational development
+as well as the writing.
 
 The human author selected the research problem, directed the interactive
 investigation, proposed and questioned lines of attack, requested checks
-against overlap and missed cases, imposed the incremental stopping and
-saving procedure, and requested this transparent account of the work.
+against overlap and missed cases, required intermediate results and checks
+to be recorded, and requested explicit disclosure of the AI contribution.
 The project was carried out through ChatGPT during November 2026. Exact
 model-version attribution is not available for every part of the extended
 session; no unsupported per-step model identifier or contribution
@@ -585,10 +633,12 @@ completed. Publishing the exact certificates, explicit assumptions,
 readable enumeration, per-word ledger, and unchanged verification backend
 is intended to make that audit feasible.
 
-Three distinct issues remain separate: execution of the exact checker,
-correctness of the mathematical reductions implemented by it, and
-publication novelty. The computations establish the first and accompany
-the arguments for the second; they do not by themselves settle the third.
+Execution of the exact checker, correctness of the mathematical
+reductions, and novelty are separate questions. The successful runs
+establish reproducibility of the encoded computation. The mathematical
+arguments and published inputs support the reductions. The literature
+comparison in Section~1 places the result in context but does not
+constitute a certification of publication priority.
 The manuscript does not attribute classical results, the known quintic
 classification, or published root inequalities to the AI-assisted project.
 
@@ -622,6 +672,7 @@ def enumerate_words(n):
     yield from visit((0,) * n, "")
 \end{lstlisting}
 
+\clearpage
 \bibliographystyle{plain}
 \bibliography{main}
 \end{document}

@@ -1,6 +1,6 @@
 # Degree-six polynomial root arrangements
 
-**Preprint, version 1.0 (10 November 2026). Not peer reviewed.**
+**Preprint, version 1.1 (11 November 2026). Not peer reviewed.**
 
 An exact certificate-based enumeration of Rolle words of degree six  
 Human author: Andrey A. Novikov.
@@ -13,6 +13,10 @@ Human author: Andrey A. Novikov.
 - [Submission preparation notes](README_submission.md)
 
 The reported result is 2706 realizable degree-six Rolle words, with reflections counted separately. This is not a count of connected components. The exact checker supports reproducibility; no independent human audit of the complete mathematical proof chain has been completed. Publication priority has not been established.
+
+## Relation to earlier work
+
+This is a classification in degree six, within the general symbolic-sequence problem formulated by Shapiro and Shapiro (2012) and Shapiro (2015, Problem 7). It is distinct from the asymptotic density question discussed in Ferudun (2026). The manuscript now compares these results explicitly and cites the known polynomial and polynomial-like counts separately.
 
 ## Reproduce
 

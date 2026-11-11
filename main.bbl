@@ -1,11 +1,26 @@
 \begin{thebibliography}{1}
 
+\bibitem{Ferudun2026}
+Alper Ferudun.
+\newblock Vanishing density of realizable {Rolle} words.
+\newblock Zenodo preprint, version 1.0, 25 October 2026, 2026.
+\newblock
+  \href{https://doi.org/10.5281/zenodo.23647439}{doi:10.5281/zenodo.23647439}.
+
 \bibitem{Kostov2002}
 Vladimir~Petrov Kostov.
 \newblock Discriminant sets of families of hyperbolic polynomials of degree 4
   and 5.
 \newblock {\em Serdica Mathematical Journal}, 28(2):117--152, 2002.
 \newblock \url{https://www.math.bas.bg/serdica/2002/2002-117-152.pdf}.
+
+\bibitem{Kostov2007}
+Vladimir~Petrov Kostov.
+\newblock On root arrangements for hyperbolic polynomial-like functions and
+  their derivatives.
+\newblock {\em Bulletin des Sciences Math\'ematiques}, 131(5):477--492, 2007.
+\newblock
+  \href{https://doi.org/10.1016/j.bulsci.2006.12.004}{doi:10.1016/j.bulsci.2006.12.004}.
 
 \bibitem{KostovShapiro2002}
 Vladimir~Petrov Kostov and Boris~Zalmanovich Shapiro.
@@ -21,5 +36,19 @@ A.~Meir and A.~Sharma.
 \newblock {\em Canadian Mathematical Bulletin}, 11(3):443--445, 1968.
 \newblock
   \href{https://doi.org/10.4153/CMB-1968-051-x}{doi:10.4153/CMB-1968-051-x}.
+
+\bibitem{Shapiro2015}
+Boris Shapiro.
+\newblock Problems around polynomials: The good, the bad and the ugly\ldots.
+\newblock {\em Arnold Mathematical Journal}, 1(1):91--99, 2015.
+\newblock
+  \href{https://doi.org/10.1007/s40598-015-0008-4}{doi:10.1007/s40598-015-0008-4}.
+
+\bibitem{ShapiroShapiro2012}
+Boris Shapiro and Michael Shapiro.
+\newblock A few riddles behind {Rolle}'s theorem.
+\newblock {\em The American Mathematical Monthly}, 119(9):787--793, 2012.
+\newblock
+  \href{https://doi.org/10.4169/amer.math.monthly.119.09.787}{doi:10.4169/amer.math.monthly.119.09.787}.
 
 \end{thebibliography}

@@ -4,12 +4,12 @@ Title: An exact certificate-based enumeration of Rolle words of degree six
 
 Author: Andrey A. Novikov
 
-Version: 1.0, 10 November 2026
+Version: 1.1, 11 November 2026
 
 Suggested primary category: math.CA. Suggested cross-list: math.CO.
 These are preparation suggestions, not a record of a submission.
 
-Suggested comments: 11 pages; exact certificate corpus and Python verification
+Suggested comments: 12 pages; exact certificate corpus and Python verification
 code included as ancillary files; substantial use of ChatGPT disclosed in
 Section 9 and in the abstract.
 
@@ -78,18 +78,19 @@ Relevant arXiv guidance:
 
 ## Abstract for submission
 
-For a strictly hyperbolic real polynomial whose nonconstant derivatives have
-mutually distinct roots, record the derivative orders of all roots from left
-to right. We report a computer-assisted classification of these Rolle words
-in degree six: exactly 2706 words are realizable, counting reflections
-separately. The computation starts from 33592 formal interlacing words. The
-known quintic classification and a theorem of Kostov--Shapiro reduce this to
-13404 candidates. Integer realization certificates and 53 exact exclusion
-stages produce an exhaustive, disjoint classification. Verification uses
-integer and rational arithmetic; floating-point searches are not used as
-impossibility proofs. A readable enumerator and an explicit proof-stage ledger
-accompany the certificate corpus. Most of the mathematical development,
-software, certificate construction, and initial exposition were generated
-using ChatGPT in an interactive project directed by the author. This
-substantial contribution and the absence of an independent human audit are
-documented explicitly.
+For a real polynomial of degree n with n distinct real roots, assume that no
+two different nonconstant derivatives, including the polynomial itself, share
+a root. Recording the derivative orders of all roots from left to right gives
+a Rolle word. We present an exact, computer-assisted classification in degree
+six: 2706 words are realizable, with a word and its reversal counted
+separately. Starting from 33592 formal interlacing words, published necessary
+restrictions leave 13404 candidates. Integer realization certificates and 53
+exact exclusion stages classify every candidate. The surviving set agrees
+exactly with the set of certified realizations. All verification uses integer
+and rational arithmetic. The accompanying code, certificates, proof notes, and
+per-word exclusion ledger make the computation reproducible. The result
+concerns degree six; it does not resolve the classification problem in
+arbitrary degree or count connected components of coefficient space. Most of
+the mathematical development, code, certificates, and initial manuscript were
+generated using ChatGPT under the author's direction. No independent human
+audit of the complete proof chain has yet been completed.

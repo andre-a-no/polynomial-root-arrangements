@@ -1,0 +1,21 @@
+{
+  "version": "1.1",
+  "date": "2026-11-11",
+  "scope": "Editorial revision, literature context, bibliography and submission metadata",
+  "added_references": [
+    "Ferudun2026",
+    "Kostov2007",
+    "Shapiro2015",
+    "ShapiroShapiro2012"
+  ],
+  "pdf_pages": 12,
+  "latex_final_warnings": [],
+  "source_zip_entries": 208,
+  "clean_extraction_compiles": true,
+  "existing_display_equations_lemmas_propositions_definitions_and_pseudocode_unchanged": true,
+  "existing_labels_preserved": true,
+  "ancillary_code_certificates_and_data_unchanged": true,
+  "supplied_ancillary_checksums": "all passed",
+  "computation_validation": "Previous successful 53-stage run remains applicable to the unchanged computational artifact; not rerun for this text revision.",
+  "arxiv_submission": "not submitted"
+}
